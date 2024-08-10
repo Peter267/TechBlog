@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-08-09T07:39:48.179Z</updated>
+  <updated>2024-08-10T02:52:56.480Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何流畅访问Github</title>
+    <link href="http://example.com/2024/08/10/%E5%A6%82%E4%BD%95%E6%B5%81%E7%95%85%E8%AE%BF%E9%97%AEGithub/"/>
+    <id>http://example.com/2024/08/10/%E5%A6%82%E4%BD%95%E6%B5%81%E7%95%85%E8%AE%BF%E9%97%AEGithub/</id>
+    <published>2024-08-10T03:00:00.000Z</published>
+    <updated>2024-08-10T02:52:56.480Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="科普" scheme="http://example.com/tags/%E7%A7%91%E6%99%AE/"/>
+    
+    <category term="如何____" scheme="http://example.com/tags/%E5%A6%82%E4%BD%95/"/>
+    
+    <category term="Github" scheme="http://example.com/tags/Github/"/>
+    
+  </entry>
   
   <entry>
     <title>如何让本地部署的大模型有个优雅的界面</title>
@@ -35,9 +62,9 @@
     
     
     
-    <category term="如何____" scheme="http://example.com/tags/%E5%A6%82%E4%BD%95/"/>
-    
     <category term="AI纪元" scheme="http://example.com/tags/AI%E7%BA%AA%E5%85%83/"/>
+    
+    <category term="如何____" scheme="http://example.com/tags/%E5%A6%82%E4%BD%95/"/>
     
     <category term="折腾" scheme="http://example.com/tags/%E6%8A%98%E8%85%BE/"/>
     
@@ -135,9 +162,9 @@
     
     
     
-    <category term="如何____" scheme="http://example.com/tags/%E5%A6%82%E4%BD%95/"/>
-    
     <category term="AI纪元" scheme="http://example.com/tags/AI%E7%BA%AA%E5%85%83/"/>
+    
+    <category term="如何____" scheme="http://example.com/tags/%E5%A6%82%E4%BD%95/"/>
     
     <category term="折腾" scheme="http://example.com/tags/%E6%8A%98%E8%85%BE/"/>
     
