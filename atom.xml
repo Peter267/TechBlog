@@ -89,9 +89,9 @@
     
     
     
-    <category term="AI纪元" scheme="http://example.com/tags/AI%E7%BA%AA%E5%85%83/"/>
-    
     <category term="新闻" scheme="http://example.com/tags/%E6%96%B0%E9%97%BB/"/>
+    
+    <category term="AI纪元" scheme="http://example.com/tags/AI%E7%BA%AA%E5%85%83/"/>
     
   </entry>
   
