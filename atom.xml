@@ -35,11 +35,11 @@
     
     
     
-    <category term="科普" scheme="http://example.com/tags/%E7%A7%91%E6%99%AE/"/>
-    
     <category term="如何____" scheme="http://example.com/tags/%E5%A6%82%E4%BD%95/"/>
     
     <category term="Github" scheme="http://example.com/tags/Github/"/>
+    
+    <category term="科普" scheme="http://example.com/tags/%E7%A7%91%E6%99%AE/"/>
     
   </entry>
   
@@ -62,11 +62,11 @@
     
     
     
-    <category term="如何____" scheme="http://example.com/tags/%E5%A6%82%E4%BD%95/"/>
-    
     <category term="AI纪元" scheme="http://example.com/tags/AI%E7%BA%AA%E5%85%83/"/>
     
     <category term="折腾" scheme="http://example.com/tags/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="如何____" scheme="http://example.com/tags/%E5%A6%82%E4%BD%95/"/>
     
   </entry>
   
@@ -137,9 +137,9 @@
     
     
     
-    <category term="科普" scheme="http://example.com/tags/%E7%A7%91%E6%99%AE/"/>
-    
     <category term="如何____" scheme="http://example.com/tags/%E5%A6%82%E4%BD%95/"/>
+    
+    <category term="科普" scheme="http://example.com/tags/%E7%A7%91%E6%99%AE/"/>
     
   </entry>
   
@@ -162,11 +162,11 @@
     
     
     
-    <category term="如何____" scheme="http://example.com/tags/%E5%A6%82%E4%BD%95/"/>
-    
     <category term="AI纪元" scheme="http://example.com/tags/AI%E7%BA%AA%E5%85%83/"/>
     
     <category term="折腾" scheme="http://example.com/tags/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="如何____" scheme="http://example.com/tags/%E5%A6%82%E4%BD%95/"/>
     
   </entry>
   
