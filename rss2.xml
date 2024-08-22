@@ -9,7 +9,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>这是一个融合设计与人工智能的探索中心，提供尖端工具和创意理念。无论你是设计师还是技术发烧友，这里丰富的资源和教程都能激发你的灵感。</description>
-    <pubDate>Thu, 22 Aug 2024 07:01:50 GMT</pubDate>
+    <pubDate>Thu, 22 Aug 2024 07:04:59 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -55,11 +55,11 @@
       
       
       
-      <category domain="http://example.com/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
+      <category domain="http://example.com/tags/%E5%A6%82%E4%BD%95/">如何____</category>
       
       <category domain="http://example.com/tags/Github/">Github</category>
       
-      <category domain="http://example.com/tags/%E5%A6%82%E4%BD%95/">如何____</category>
+      <category domain="http://example.com/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
       
       
       <comments>http://example.com/2024/08/20/Gmeek%E6%A1%86%E6%9E%B6%EF%BC%9A18%E7%A7%92%E6%8B%A5%E6%9C%89%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%81/#disqus_thread</comments>
@@ -84,11 +84,11 @@
       
       
       
-      <category domain="http://example.com/tags/Github/">Github</category>
+      <category domain="http://example.com/tags/%E7%A7%91%E6%99%AE/">科普</category>
       
       <category domain="http://example.com/tags/%E5%A6%82%E4%BD%95/">如何____</category>
       
-      <category domain="http://example.com/tags/%E7%A7%91%E6%99%AE/">科普</category>
+      <category domain="http://example.com/tags/Github/">Github</category>
       
       
       <comments>http://example.com/2024/08/10/%E5%A6%82%E4%BD%95%E6%B5%81%E7%95%85%E8%AE%BF%E9%97%AEGithub/#disqus_thread</comments>
@@ -113,9 +113,9 @@
       
       
       
-      <category domain="http://example.com/tags/AI%E7%BA%AA%E5%85%83/">AI纪元</category>
-      
       <category domain="http://example.com/tags/%E5%A6%82%E4%BD%95/">如何____</category>
+      
+      <category domain="http://example.com/tags/AI%E7%BA%AA%E5%85%83/">AI纪元</category>
       
       <category domain="http://example.com/tags/%E6%8A%98%E8%85%BE/">折腾</category>
       
@@ -142,9 +142,9 @@
       
       
       
-      <category domain="http://example.com/tags/%E6%96%B0%E9%97%BB/">新闻</category>
-      
       <category domain="http://example.com/tags/AI%E7%BA%AA%E5%85%83/">AI纪元</category>
+      
+      <category domain="http://example.com/tags/%E6%96%B0%E9%97%BB/">新闻</category>
       
       <category domain="http://example.com/tags/AI%E6%92%B0%E5%86%99/">AI撰写</category>
       
@@ -196,9 +196,9 @@
       
       
       
-      <category domain="http://example.com/tags/%E5%A6%82%E4%BD%95/">如何____</category>
-      
       <category domain="http://example.com/tags/%E7%A7%91%E6%99%AE/">科普</category>
+      
+      <category domain="http://example.com/tags/%E5%A6%82%E4%BD%95/">如何____</category>
       
       
       <comments>http://example.com/2024/07/26/RSS%E6%98%AF%E4%B8%AA%E7%94%9A%E4%B9%88%E4%B8%9C%E4%B8%9C/#disqus_thread</comments>
@@ -223,9 +223,9 @@
       
       
       
-      <category domain="http://example.com/tags/AI%E7%BA%AA%E5%85%83/">AI纪元</category>
-      
       <category domain="http://example.com/tags/%E5%A6%82%E4%BD%95/">如何____</category>
+      
+      <category domain="http://example.com/tags/AI%E7%BA%AA%E5%85%83/">AI纪元</category>
       
       <category domain="http://example.com/tags/%E6%8A%98%E8%85%BE/">折腾</category>
       
