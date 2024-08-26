@@ -15037,12 +15037,6 @@ blockquote {
 .share-link .share-main .share-main-all .reward-dec {
   font-size: 12px;
 }
-.post-tools .post-tools-left > div {
-  margin: 0;
-}
-.post-tools .post-tools-left {
-  width: auto;
-}
 .relatedPosts {
   margin-top: 1.25rem;
 }
@@ -15154,7 +15148,7 @@ blockquote {
 .post-reward .reward-main {
   position: absolute;
   bottom: 40px;
-  left: -70%;
+  left: 0;
   z-index: 90;
   display: none;
   padding: 0px 0px 15px;
