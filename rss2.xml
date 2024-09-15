@@ -9,7 +9,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>这是一个融合设计与人工智能的探索中心，提供尖端工具和创意理念。无论你是设计师还是技术发烧友，这里丰富的资源和教程都能激发你的灵感。</description>
-    <pubDate>Wed, 11 Sep 2024 12:45:05 GMT</pubDate>
+    <pubDate>Sun, 15 Sep 2024 12:10:36 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -109,9 +109,9 @@
       
       
       
-      <category domain="http://example.com/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
-      
       <category domain="http://example.com/tags/Github/">Github</category>
+      
+      <category domain="http://example.com/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
       
       <category domain="http://example.com/tags/%E5%A6%82%E4%BD%95/">如何____</category>
       
