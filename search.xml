@@ -32,52 +32,6 @@
       </tags>
   </entry>
   <entry>
-    <title>RSS是个甚么东东</title>
-    <url>/2024/07/26/RSS%E6%98%AF%E4%B8%AA%E7%94%9A%E4%B9%88%E4%B8%9C%E4%B8%9C/</url>
-    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>大家在浏览独立博客网站时可能会发现，有的网站内有个类似于手机WI-FI标志的按钮，这其实是RSS（简易信息聚合）订阅。以<a href="https://[peter267.github.io//rss.xml](https://peter267.github.io//rss.xml)">本站</a>为例，它左上角有个RSS订阅功能，当我们点击后，会得到一个格式为xml格式的文件。那么，RSS是什么，为什么，怎么用呢</p>
-<h1 id="是什么"><a href="#是什么" class="headerlink" title="是什么"></a>是什么</h1><blockquote>
-<p>引用自<a href="https://baike.baidu.com/item/RSS/24470">百度百科</a><br><a href="https://baike.baidu.com/item/%E7%AE%80%E6%98%93%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88/6453727?fromModule=lemma_inlink">简易信息聚合</a>（也叫聚合内容）是一种基于XML的标准，在互联网上被广泛采用的内容包装和投递协议。RSS(Really Simple Syndication)是一种描述和同步网站内容的格式，是使用最广泛的XML应用。RSS搭建了信息迅速传播的一个技术平台，使得每个人都成为潜在的<a href="https://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E6%8F%90%E4%BE%9B%E8%80%85/12754057?fromModule=lemma_inlink">信息提供者</a>。发布一个RSS文件后，这个RSS <a href="https://baike.baidu.com/item/Feed/15181?fromModule=lemma_inlink">Feed</a>中包含的信息就能直接被其他站点调用，而且由于这些数据都是标准的XML格式，所以也能在其他的终端和服务中使用，是一种描述和同步<a href="https://baike.baidu.com/item/%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9/6694752?fromModule=lemma_inlink">网站内容</a>的格式。 [1]RSS可以是以下三个解释的其中一个： Really Simple Syndication；RDF (Resource Description Framework) Site Summary； Rich Site Summary。但其实这三个解释都是指同一种Syndication的技术。<br>RSS广泛用于网上新闻频道，<a href="https://baike.baidu.com/item/blog/8086465?fromModule=lemma_inlink">blog</a>和<a href="https://baike.baidu.com/item/wiki/97755?fromModule=lemma_inlink">wiki</a>，主要的版本有0.91, 1.0, 2.0。使用<a href="https://baike.baidu.com/item/RSS%E8%AE%A2%E9%98%85/663114?fromModule=lemma_inlink">RSS订阅</a><strong>能更快地获取信息</strong>，网站提供RSS输出，有<strong>利于让用户获取网站内容的最新更新</strong>。<a href="https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E7%94%A8%E6%88%B7/56340765?fromModule=lemma_inlink">网络用户</a>可以在客户端借助于支持RSS的聚合工具软件，<strong>在不打开网站内容页面的情况下阅读支持RSS输出的网站内容</strong>。</p>
-</blockquote>
-<p>说了这么多，你可以简单的把它理解为<strong>把多个平台的内容汇聚在一起，让你能在一个平台上看到</strong></p>
-<h1 id="为什么"><a href="#为什么" class="headerlink" title="为什么"></a>为什么</h1><p>如果你关注了多个博主（信号源），每天都要看一遍他们有没有更新，要奔波于各个网站，应用之间。RSS把这些内容汇聚到了一起，让你在一个平台上观看，还能避免博客平台的“垃圾信息和广告”，让你有个安静的阅读环境，我想这就是RSS的意义</p>
-<h1 id="怎么用"><a href="#怎么用" class="headerlink" title="怎么用"></a>怎么用</h1><h2 id="对于有RSS功能的网页"><a href="#对于有RSS功能的网页" class="headerlink" title="对于有RSS功能的网页"></a>对于有RSS功能的网页</h2><p>建议使用<a href="https://www.qireader.com.cn/">QiReader</a>，这是一个界面现代的RSS阅读器，进入官网后点击注册，注册账号后点击添加内容，在输入框内输入-点击RSS按钮后出现的网页的网址链接-，直接复制过去回车，点击订阅即可<br><img src="https://s21.ax1x.com/2024/08/21/pAiZ0kd.md.png" alt="pAiZ0kd.md.png"></p>
-<h2 id="对于无RSS功能的网页"><a href="#对于无RSS功能的网页" class="headerlink" title="对于无RSS功能的网页"></a>对于无RSS功能的网页</h2><p>建议使用<a href="https://docs.rsshub.app/zh/">RSSHub</a>和<a href="https://github.com/yang991178/fluent-reader">Fluent-Reader</a></p>
-<ol>
-<li>进入<a href="https://github.com/yang991178/fluent-reader">Fluent-Reader</a>后，记得先star支持下作者。点击Releases下的第一个按钮，选择适合自己电脑的版本，点击下载。</li>
-<li>进入<a href="https://docs.rsshub.app/zh/guide/">RSSHub</a>，点击“食用指南”，在左侧找到想订阅的博客类型，在右侧寻找博客，再在博客的细分类中找到自己要订阅的源，点击。</li>
-<li>我以-论坛-百度-精品帖子-为例，点击后复制Example后的链接，链接后有一个复制按钮，点击以复制。</li>
-<li>打开Fluent-Reader，在右上角设置-添加订阅源-栏里粘贴复制的链接，<strong>不要点击“添加”</strong></li>
-<li><strong>重要的一步</strong>，在RSSHub中打开“公共实例”，在Public表中找到一个可用“Online列为up”的URL，选中复制</li>
-<li>回到Fluent-Reader，把填进去的链接中“rsshub.app”替换成你复制的链接，点击添加，大功告成！<br><img src="https://s21.ax1x.com/2024/08/21/pAiZDfI.md.png" alt="pAiZDfI.md.png"><blockquote>
-<p><a href="https://www.bilibili.com/video/BV1mz42197g1/">视频版教程</a><br>但凡在Github下载过东西的都知道它下载的有多慢，我把Fluent-Reader的下载程序放到网盘里了，需要自取<a href="https://www.123pan.com/s/hoPKVv-2aB63.html">123网盘</a><br>其实使用<a href="https://docs.rsshub.app/zh/">RSSHub</a>和<a href="https://www.qireader.com.cn/">QiReader</a>搭配也可以，甚至不用更换“rsshub.app”了（应该），对于有RSS功能的网页，也可以使用Fluent-Reader。但是QiReader功能较少，但方便。可以选择自己喜欢的。</p>
-</blockquote>
-</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>科普</tag>
-        <tag>如何____</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>勇气：雷军与小米的非凡旅程</title>
-    <url>/2024/07/20/%E5%8B%87%E6%B0%94%EF%BC%9A%E9%9B%B7%E5%86%9B%E4%B8%8E%E5%B0%8F%E7%B1%B3%E7%9A%84%E9%9D%9E%E5%87%A1%E6%97%85%E7%A8%8B/</url>
-    <content><![CDATA[<p><img src="https://github.com/user-attachments/assets/46e30fa9-b528-4db3-8fb1-b8a2b7aff261" alt="92f8fca6efd5c045852b447894905056eecf72f9 3"></p>
-<p>在科技行业，每一次跨越都是一次勇气的考验。2024年的盛夏，小米集团的创始人、董事长兼CEO雷军，站在一年一度的个人演讲舞台上，用“勇气”二字串联起了过去与未来，科技与梦想，以及个人与品牌的壮丽篇章。</p>
-<h2 id="小米汽车：从零到一的勇气"><a href="#小米汽车：从零到一的勇气" class="headerlink" title="小米汽车：从零到一的勇气"></a>小米汽车：从零到一的勇气</h2><p>雷军的演讲开篇，就带我们进入了小米汽车的奇妙世界。自2021年宣布进军汽车行业以来，小米汽车成为了业界关注的焦点。雷军坦诚分享了这一路上的艰难与坚持。面对外界的质疑，小米选择了不走寻常路——拒绝拆分独立融资，而是将汽车项目置于集团内部，以小米自身的资金与资源全力推进。这一决策背后，是对未来趋势的洞察，更是对自身能力的信任。</p>
-<p>雷军本人，作为一位企业家，更是一位勇敢的探索者。他不仅亲自试驾了170余款汽车，还考取了赛车驾照，以实际行动诠释了对汽车行业的热爱与尊重。这一系列举动，不仅加深了他对于汽车行业的理解，也向世人展示了小米汽车项目的决心与信心。</p>
-<h2 id="破局者：投资与自我超越"><a href="#破局者：投资与自我超越" class="headerlink" title="破局者：投资与自我超越"></a>破局者：投资与自我超越</h2><p>在市场波动的背景下，小米的股价也曾经历过起伏。面对挑战，雷军领导的小米采取了果断措施——回购股票，展现了管理层对于公司长期价值的坚定信念。这一策略不仅稳定了市场预期，也彰显了小米对于自我价值的清晰认知。</p>
-<p>更重要的是，小米始终将“最好的投资就是投资自己”作为行动指南。无论是产品创新，还是品牌建设，小米都在不断突破自我，用品质与服务赢得用户的信任。这一过程中，小米不仅破除了外界对于品牌形象的固有认知，更是在全球市场上树立起了一面旗帜，成为科技行业的破局者。</p>
-<h2 id="科技之光：新品发布与未来愿景"><a href="#科技之光：新品发布与未来愿景" class="headerlink" title="科技之光：新品发布与未来愿景"></a>科技之光：新品发布与未来愿景</h2><p>演讲的高潮，自然落在了小米的最新产品上。小米MIX Fold4与小米MIX Flip两款折叠屏手机的发布，标志着小米在移动通讯领域的又一次飞跃。小米MIX Fold4凭借其卓越的屏幕技术、极致的性能和优雅的设计，再次定义了折叠屏手机的新标准；而小米MIX Flip，则以小巧轻盈的形态，开辟了折叠屏手机的全新可能性，满足了用户对于时尚与实用性的双重需求。</p>
-<p>除此之外，雷军还揭秘了一款概念产品——小米SU7 Ultra Prototype，这款产品集成了小米最前沿的科技成果，预示着小米在高科技领域的持续探索与创新。每一款新品的背后，都是小米对未来的憧憬与追求，它们共同编织出一幅关于科技与生活的美好图景。</p>
-<h2 id="个人成长与勇气的赞歌"><a href="#个人成长与勇气的赞歌" class="headerlink" title="个人成长与勇气的赞歌"></a>个人成长与勇气的赞歌</h2><p>演讲尾声，雷军回归初心，分享了个人成长的故事。从金山软件的风雨岁月，到小米的辉煌征程，每一步都充满了挑战与机遇。雷军的赛车驾照与漂移视频，不仅仅是一次速度与激情的体验，更是勇气与梦想的见证。它们告诉我们，无论前方的路有多么崎岖，只要有勇气，就有无限可能。</p>
-<p>雷军的年度演讲，不仅是一场科技盛宴，更是一次心灵的触动。它让我们看到了一个企业从无到有、从弱到强的成长轨迹，也让我们感受到了一个领导者对于梦想的执着追求。在未来的日子里，小米将继续以勇气为帆，驶向更加广阔的科技蓝海，书写属于自己的传奇篇章！</p>
-]]></content>
-      <tags>
-        <tag>发布会</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>GithubModels：免费AI大模型</title>
     <url>/2024/08/30/GithubModels%EF%BC%9A%E5%85%8D%E8%B4%B9AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BC%81/</url>
     <content><![CDATA[<blockquote>
@@ -185,7 +139,7 @@
     </a></div>
 
 <h3 id="获取所有文件"><a href="#获取所有文件" class="headerlink" title="获取所有文件"></a>获取所有文件</h3><p>包含LightPicture部署文件，PhpStudy(小皮面板)，Cpolar（Windows端）</p>
-<div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://53769dff.r21.vip.cpolar.cn/">
+<div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://peterwu.lanzout.com/b00uygd0fa">
     <div class="tag-link-tips">引用站外地址</div>
     <div class="tag-link-bottom">
         <div class="tag-link-left" style="">
@@ -193,16 +147,44 @@
         </div>
         <div class="tag-link-right">
             <div class="tag-link-title">一键获取所有文件</div>
-            <div class="tag-link-sitename"> 包含LightPicture部署文件，PhpStudy(小皮面板)，Cpolar（Windows）</div>
+            <div class="tag-link-sitename"> 密码：1711</div>
         </div>
         <i class="anzhiyufont anzhiyu-icon-angle-right"></i>
     </div>
     </a></div>
 ]]></content>
       <tags>
-        <tag>如何____</tag>
         <tag>PHP</tag>
         <tag>折腾</tag>
+        <tag>如何____</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>RSS是个甚么东东</title>
+    <url>/2024/07/26/RSS%E6%98%AF%E4%B8%AA%E7%94%9A%E4%B9%88%E4%B8%9C%E4%B8%9C/</url>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>大家在浏览独立博客网站时可能会发现，有的网站内有个类似于手机WI-FI标志的按钮，这其实是RSS（简易信息聚合）订阅。以<a href="https://[peter267.github.io//rss.xml](https://peter267.github.io//rss.xml)">本站</a>为例，它左上角有个RSS订阅功能，当我们点击后，会得到一个格式为xml格式的文件。那么，RSS是什么，为什么，怎么用呢</p>
+<h1 id="是什么"><a href="#是什么" class="headerlink" title="是什么"></a>是什么</h1><blockquote>
+<p>引用自<a href="https://baike.baidu.com/item/RSS/24470">百度百科</a><br><a href="https://baike.baidu.com/item/%E7%AE%80%E6%98%93%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88/6453727?fromModule=lemma_inlink">简易信息聚合</a>（也叫聚合内容）是一种基于XML的标准，在互联网上被广泛采用的内容包装和投递协议。RSS(Really Simple Syndication)是一种描述和同步网站内容的格式，是使用最广泛的XML应用。RSS搭建了信息迅速传播的一个技术平台，使得每个人都成为潜在的<a href="https://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E6%8F%90%E4%BE%9B%E8%80%85/12754057?fromModule=lemma_inlink">信息提供者</a>。发布一个RSS文件后，这个RSS <a href="https://baike.baidu.com/item/Feed/15181?fromModule=lemma_inlink">Feed</a>中包含的信息就能直接被其他站点调用，而且由于这些数据都是标准的XML格式，所以也能在其他的终端和服务中使用，是一种描述和同步<a href="https://baike.baidu.com/item/%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9/6694752?fromModule=lemma_inlink">网站内容</a>的格式。 [1]RSS可以是以下三个解释的其中一个： Really Simple Syndication；RDF (Resource Description Framework) Site Summary； Rich Site Summary。但其实这三个解释都是指同一种Syndication的技术。<br>RSS广泛用于网上新闻频道，<a href="https://baike.baidu.com/item/blog/8086465?fromModule=lemma_inlink">blog</a>和<a href="https://baike.baidu.com/item/wiki/97755?fromModule=lemma_inlink">wiki</a>，主要的版本有0.91, 1.0, 2.0。使用<a href="https://baike.baidu.com/item/RSS%E8%AE%A2%E9%98%85/663114?fromModule=lemma_inlink">RSS订阅</a><strong>能更快地获取信息</strong>，网站提供RSS输出，有<strong>利于让用户获取网站内容的最新更新</strong>。<a href="https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E7%94%A8%E6%88%B7/56340765?fromModule=lemma_inlink">网络用户</a>可以在客户端借助于支持RSS的聚合工具软件，<strong>在不打开网站内容页面的情况下阅读支持RSS输出的网站内容</strong>。</p>
+</blockquote>
+<p>说了这么多，你可以简单的把它理解为<strong>把多个平台的内容汇聚在一起，让你能在一个平台上看到</strong></p>
+<h1 id="为什么"><a href="#为什么" class="headerlink" title="为什么"></a>为什么</h1><p>如果你关注了多个博主（信号源），每天都要看一遍他们有没有更新，要奔波于各个网站，应用之间。RSS把这些内容汇聚到了一起，让你在一个平台上观看，还能避免博客平台的“垃圾信息和广告”，让你有个安静的阅读环境，我想这就是RSS的意义</p>
+<h1 id="怎么用"><a href="#怎么用" class="headerlink" title="怎么用"></a>怎么用</h1><h2 id="对于有RSS功能的网页"><a href="#对于有RSS功能的网页" class="headerlink" title="对于有RSS功能的网页"></a>对于有RSS功能的网页</h2><p>建议使用<a href="https://www.qireader.com.cn/">QiReader</a>，这是一个界面现代的RSS阅读器，进入官网后点击注册，注册账号后点击添加内容，在输入框内输入-点击RSS按钮后出现的网页的网址链接-，直接复制过去回车，点击订阅即可<br><img src="https://s21.ax1x.com/2024/08/21/pAiZ0kd.md.png" alt="pAiZ0kd.md.png"></p>
+<h2 id="对于无RSS功能的网页"><a href="#对于无RSS功能的网页" class="headerlink" title="对于无RSS功能的网页"></a>对于无RSS功能的网页</h2><p>建议使用<a href="https://docs.rsshub.app/zh/">RSSHub</a>和<a href="https://github.com/yang991178/fluent-reader">Fluent-Reader</a></p>
+<ol>
+<li>进入<a href="https://github.com/yang991178/fluent-reader">Fluent-Reader</a>后，记得先star支持下作者。点击Releases下的第一个按钮，选择适合自己电脑的版本，点击下载。</li>
+<li>进入<a href="https://docs.rsshub.app/zh/guide/">RSSHub</a>，点击“食用指南”，在左侧找到想订阅的博客类型，在右侧寻找博客，再在博客的细分类中找到自己要订阅的源，点击。</li>
+<li>我以-论坛-百度-精品帖子-为例，点击后复制Example后的链接，链接后有一个复制按钮，点击以复制。</li>
+<li>打开Fluent-Reader，在右上角设置-添加订阅源-栏里粘贴复制的链接，<strong>不要点击“添加”</strong></li>
+<li><strong>重要的一步</strong>，在RSSHub中打开“公共实例”，在Public表中找到一个可用“Online列为up”的URL，选中复制</li>
+<li>回到Fluent-Reader，把填进去的链接中“rsshub.app”替换成你复制的链接，点击添加，大功告成！<br><img src="https://s21.ax1x.com/2024/08/21/pAiZDfI.md.png" alt="pAiZDfI.md.png"><blockquote>
+<p><a href="https://www.bilibili.com/video/BV1mz42197g1/">视频版教程</a><br>但凡在Github下载过东西的都知道它下载的有多慢，我把Fluent-Reader的下载程序放到网盘里了，需要自取<a href="https://www.123pan.com/s/hoPKVv-2aB63.html">123网盘</a><br>其实使用<a href="https://docs.rsshub.app/zh/">RSSHub</a>和<a href="https://www.qireader.com.cn/">QiReader</a>搭配也可以，甚至不用更换“rsshub.app”了（应该），对于有RSS功能的网页，也可以使用Fluent-Reader。但是QiReader功能较少，但方便。可以选择自己喜欢的。</p>
+</blockquote>
+</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>如何____</tag>
+        <tag>科普</tag>
       </tags>
   </entry>
   <entry>
@@ -228,8 +210,26 @@
 ]]></content>
       <tags>
         <tag>AI纪元</tag>
-        <tag>如何____</tag>
         <tag>折腾</tag>
+        <tag>如何____</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>勇气：雷军与小米的非凡旅程</title>
+    <url>/2024/07/20/%E5%8B%87%E6%B0%94%EF%BC%9A%E9%9B%B7%E5%86%9B%E4%B8%8E%E5%B0%8F%E7%B1%B3%E7%9A%84%E9%9D%9E%E5%87%A1%E6%97%85%E7%A8%8B/</url>
+    <content><![CDATA[<p><img src="https://github.com/user-attachments/assets/46e30fa9-b528-4db3-8fb1-b8a2b7aff261" alt="92f8fca6efd5c045852b447894905056eecf72f9 3"></p>
+<p>在科技行业，每一次跨越都是一次勇气的考验。2024年的盛夏，小米集团的创始人、董事长兼CEO雷军，站在一年一度的个人演讲舞台上，用“勇气”二字串联起了过去与未来，科技与梦想，以及个人与品牌的壮丽篇章。</p>
+<h2 id="小米汽车：从零到一的勇气"><a href="#小米汽车：从零到一的勇气" class="headerlink" title="小米汽车：从零到一的勇气"></a>小米汽车：从零到一的勇气</h2><p>雷军的演讲开篇，就带我们进入了小米汽车的奇妙世界。自2021年宣布进军汽车行业以来，小米汽车成为了业界关注的焦点。雷军坦诚分享了这一路上的艰难与坚持。面对外界的质疑，小米选择了不走寻常路——拒绝拆分独立融资，而是将汽车项目置于集团内部，以小米自身的资金与资源全力推进。这一决策背后，是对未来趋势的洞察，更是对自身能力的信任。</p>
+<p>雷军本人，作为一位企业家，更是一位勇敢的探索者。他不仅亲自试驾了170余款汽车，还考取了赛车驾照，以实际行动诠释了对汽车行业的热爱与尊重。这一系列举动，不仅加深了他对于汽车行业的理解，也向世人展示了小米汽车项目的决心与信心。</p>
+<h2 id="破局者：投资与自我超越"><a href="#破局者：投资与自我超越" class="headerlink" title="破局者：投资与自我超越"></a>破局者：投资与自我超越</h2><p>在市场波动的背景下，小米的股价也曾经历过起伏。面对挑战，雷军领导的小米采取了果断措施——回购股票，展现了管理层对于公司长期价值的坚定信念。这一策略不仅稳定了市场预期，也彰显了小米对于自我价值的清晰认知。</p>
+<p>更重要的是，小米始终将“最好的投资就是投资自己”作为行动指南。无论是产品创新，还是品牌建设，小米都在不断突破自我，用品质与服务赢得用户的信任。这一过程中，小米不仅破除了外界对于品牌形象的固有认知，更是在全球市场上树立起了一面旗帜，成为科技行业的破局者。</p>
+<h2 id="科技之光：新品发布与未来愿景"><a href="#科技之光：新品发布与未来愿景" class="headerlink" title="科技之光：新品发布与未来愿景"></a>科技之光：新品发布与未来愿景</h2><p>演讲的高潮，自然落在了小米的最新产品上。小米MIX Fold4与小米MIX Flip两款折叠屏手机的发布，标志着小米在移动通讯领域的又一次飞跃。小米MIX Fold4凭借其卓越的屏幕技术、极致的性能和优雅的设计，再次定义了折叠屏手机的新标准；而小米MIX Flip，则以小巧轻盈的形态，开辟了折叠屏手机的全新可能性，满足了用户对于时尚与实用性的双重需求。</p>
+<p>除此之外，雷军还揭秘了一款概念产品——小米SU7 Ultra Prototype，这款产品集成了小米最前沿的科技成果，预示着小米在高科技领域的持续探索与创新。每一款新品的背后，都是小米对未来的憧憬与追求，它们共同编织出一幅关于科技与生活的美好图景。</p>
+<h2 id="个人成长与勇气的赞歌"><a href="#个人成长与勇气的赞歌" class="headerlink" title="个人成长与勇气的赞歌"></a>个人成长与勇气的赞歌</h2><p>演讲尾声，雷军回归初心，分享了个人成长的故事。从金山软件的风雨岁月，到小米的辉煌征程，每一步都充满了挑战与机遇。雷军的赛车驾照与漂移视频，不仅仅是一次速度与激情的体验，更是勇气与梦想的见证。它们告诉我们，无论前方的路有多么崎岖，只要有勇气，就有无限可能。</p>
+<p>雷军的年度演讲，不仅是一场科技盛宴，更是一次心灵的触动。它让我们看到了一个企业从无到有、从弱到强的成长轨迹，也让我们感受到了一个领导者对于梦想的执着追求。在未来的日子里，小米将继续以勇气为帆，驶向更加广阔的科技蓝海，书写属于自己的传奇篇章！</p>
+]]></content>
+      <tags>
+        <tag>发布会</tag>
       </tags>
   </entry>
   <entry>
@@ -249,23 +249,30 @@
 <p><del>我觉得还是魔法好用</del></p>
 ]]></content>
       <tags>
-        <tag>科普</tag>
-        <tag>如何____</tag>
         <tag>Github</tag>
+        <tag>如何____</tag>
+        <tag>科普</tag>
       </tags>
   </entry>
   <entry>
-    <title>如何让本地部署的大模型有个优雅的界面</title>
-    <url>/2024/07/31/%E5%A6%82%E4%BD%95%E8%AE%A9%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%89%E4%B8%AA%E4%BC%98%E9%9B%85%E7%9A%84%E7%95%8C%E9%9D%A2/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>有人可能受不了本地大模型这样辣鸡的聊天界面，本期博客教大家如何拥有一个<strong>优雅的聊天界面</strong><br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/ad27fe7274f2d9e0799d1.png" alt="4ab8d016-3abe-4c05-a826-e37cdb8a3596"></p>
-<h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>使用<a href="https://www.docker.com/">Docker</a>+<a href="https://github.com/open-webui/docs">OpenWebUI</a>来进行搭建</p>
-<h2 id="开始搭建"><a href="#开始搭建" class="headerlink" title="开始搭建"></a>开始搭建</h2><p>1.打开Docker官网，选择自己的电脑系统，点击下载。<br>2.打开OpenWebUI，找到About栏下方的链接，点击后找到GettingStarted→Installation with Default Configuration→If Ollama is on your computer, use this command，复制下面的代码<br>3.此时Docker已经下载完成，进入Docker（无需注册）<br>4.打开cmd窗口，输入复制的代码，所有内容下载完成后关闭<br>5.此时Docker的窗口已经出现了OpenWebUI，点击Port栏下面的端口即可打开聊天界面<br>6.注册一个账号，第一个注册的账号就是管理员账号<br>7.此时已经大功告成<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/b5ddcb8afb55e1124b36c.png" alt="image"></p>
-<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>Docker地下载花了我3个多小时，为此，我把下载链接放到网盘里了，需要自取<br><a href="https://peterwu.lanzout.com/iv7nh262gohi">蓝奏云</a></p>
+    <title>网站故障说明</title>
+    <url>/2024/08/22/%E7%BD%91%E7%AB%99%E6%95%85%E9%9A%9C%E8%AF%B4%E6%98%8E/</url>
+    <content><![CDATA[<h1 id="重要通知-网站图床服务崩塌及解决方案"><a href="#重要通知-网站图床服务崩塌及解决方案" class="headerlink" title="重要通知: 网站图床服务崩塌及解决方案"></a>重要通知: 网站图床服务崩塌及解决方案</h1><p>深深地向大家道歉。由于我个人的疏忽以及图床服务商服务中断的问题，这是一个P3级事故，导致我们的网站遇到了一些技术问题，这影响了您的体验。我在这里详细说明发生了什么，目前的状态，以及我们的临时解决方案。</p>
+<h2 id="问题说明"><a href="#问题说明" class="headerlink" title="问题说明"></a>问题说明</h2><p>本站的图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 因为各种原因在8月21日~8月22日期间所有上传的图片全部无法打开，这导致了本站所有使用此图床服务的图片全部无法打开。<br><img src="https://s21.ax1x.com/2024/08/22/pAi2tvd.png" alt="问题图片"></p>
+<h2 id="当前状态"><a href="#当前状态" class="headerlink" title="当前状态"></a>当前状态</h2><p>经过我的检查，此图床的主页可以打开，但图片无法打开，这需要一段时间才能解决或无法解决<br>由于这一问题，我们的网站目前处于不完整的状态，影响了用户的正常访问。</p>
+<h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>本站在前几天就表示要更换图床服务，目前已经全部更换所有文章的图床服务，所以，文章您可以正常访问。其他位置的图片正在加急处理。</p>
+<h2 id="后续措施"><a href="#后续措施" class="headerlink" title="后续措施"></a>后续措施</h2><p>我们深感抱歉因个人疏忽和图床服务商的服务中断给您带来的不便。请知悉，我们正在尽一切努力解决这一问题，并将从中吸取教训，未来将进一步加强网站的稳定性和制定更周全的应急预案，避免类似情况的再次发生。</p>
+<p>我们深知这次事件可能影响了您对我们网站的信任，但请您相信，我们全力以赴地解决问题，并始终致力于提供最佳的服务和体验。感谢您的理解与支持。</p>
+<p>如果您有任何问题或需要进一步的帮助，请随时与我们联系。</p>
+<p>祝好</p>
+<p>[Peter267]</p>
+<ul>
+<li>8月22日15:00<br>友人帐页面图片已经恢复访问</li>
+<li>8月22日晚上<br>原图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 已经恢复，本站已经恢复所有图片的访问（但加载缓慢）</li>
+</ul>
 ]]></content>
       <tags>
-        <tag>AI纪元</tag>
-        <tag>如何____</tag>
-        <tag>折腾</tag>
+        <tag>其他</tag>
       </tags>
   </entry>
   <entry>
@@ -323,24 +330,17 @@
       </tags>
   </entry>
   <entry>
-    <title>网站故障说明</title>
-    <url>/2024/08/22/%E7%BD%91%E7%AB%99%E6%95%85%E9%9A%9C%E8%AF%B4%E6%98%8E/</url>
-    <content><![CDATA[<h1 id="重要通知-网站图床服务崩塌及解决方案"><a href="#重要通知-网站图床服务崩塌及解决方案" class="headerlink" title="重要通知: 网站图床服务崩塌及解决方案"></a>重要通知: 网站图床服务崩塌及解决方案</h1><p>深深地向大家道歉。由于我个人的疏忽以及图床服务商服务中断的问题，这是一个P3级事故，导致我们的网站遇到了一些技术问题，这影响了您的体验。我在这里详细说明发生了什么，目前的状态，以及我们的临时解决方案。</p>
-<h2 id="问题说明"><a href="#问题说明" class="headerlink" title="问题说明"></a>问题说明</h2><p>本站的图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 因为各种原因在8月21日~8月22日期间所有上传的图片全部无法打开，这导致了本站所有使用此图床服务的图片全部无法打开。<br><img src="https://s21.ax1x.com/2024/08/22/pAi2tvd.png" alt="问题图片"></p>
-<h2 id="当前状态"><a href="#当前状态" class="headerlink" title="当前状态"></a>当前状态</h2><p>经过我的检查，此图床的主页可以打开，但图片无法打开，这需要一段时间才能解决或无法解决<br>由于这一问题，我们的网站目前处于不完整的状态，影响了用户的正常访问。</p>
-<h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>本站在前几天就表示要更换图床服务，目前已经全部更换所有文章的图床服务，所以，文章您可以正常访问。其他位置的图片正在加急处理。</p>
-<h2 id="后续措施"><a href="#后续措施" class="headerlink" title="后续措施"></a>后续措施</h2><p>我们深感抱歉因个人疏忽和图床服务商的服务中断给您带来的不便。请知悉，我们正在尽一切努力解决这一问题，并将从中吸取教训，未来将进一步加强网站的稳定性和制定更周全的应急预案，避免类似情况的再次发生。</p>
-<p>我们深知这次事件可能影响了您对我们网站的信任，但请您相信，我们全力以赴地解决问题，并始终致力于提供最佳的服务和体验。感谢您的理解与支持。</p>
-<p>如果您有任何问题或需要进一步的帮助，请随时与我们联系。</p>
-<p>祝好</p>
-<p>[Peter267]</p>
-<ul>
-<li>8月22日15:00<br>友人帐页面图片已经恢复访问</li>
-<li>8月22日晚上<br>原图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 已经恢复，本站已经恢复所有图片的访问（但加载缓慢）</li>
-</ul>
+    <title>如何让本地部署的大模型有个优雅的界面</title>
+    <url>/2024/07/31/%E5%A6%82%E4%BD%95%E8%AE%A9%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%89%E4%B8%AA%E4%BC%98%E9%9B%85%E7%9A%84%E7%95%8C%E9%9D%A2/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>有人可能受不了本地大模型这样辣鸡的聊天界面，本期博客教大家如何拥有一个<strong>优雅的聊天界面</strong><br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/ad27fe7274f2d9e0799d1.png" alt="4ab8d016-3abe-4c05-a826-e37cdb8a3596"></p>
+<h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>使用<a href="https://www.docker.com/">Docker</a>+<a href="https://github.com/open-webui/docs">OpenWebUI</a>来进行搭建</p>
+<h2 id="开始搭建"><a href="#开始搭建" class="headerlink" title="开始搭建"></a>开始搭建</h2><p>1.打开Docker官网，选择自己的电脑系统，点击下载。<br>2.打开OpenWebUI，找到About栏下方的链接，点击后找到GettingStarted→Installation with Default Configuration→If Ollama is on your computer, use this command，复制下面的代码<br>3.此时Docker已经下载完成，进入Docker（无需注册）<br>4.打开cmd窗口，输入复制的代码，所有内容下载完成后关闭<br>5.此时Docker的窗口已经出现了OpenWebUI，点击Port栏下面的端口即可打开聊天界面<br>6.注册一个账号，第一个注册的账号就是管理员账号<br>7.此时已经大功告成<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/b5ddcb8afb55e1124b36c.png" alt="image"></p>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>Docker地下载花了我3个多小时，为此，我把下载链接放到网盘里了，需要自取<br><a href="https://peterwu.lanzout.com/iv7nh262gohi">蓝奏云</a></p>
 ]]></content>
       <tags>
-        <tag>其他</tag>
+        <tag>AI纪元</tag>
+        <tag>折腾</tag>
+        <tag>如何____</tag>
       </tags>
   </entry>
   <entry>
@@ -549,8 +549,8 @@
 <h3 id="9-删除文章"><a href="#9-删除文章" class="headerlink" title="9. 删除文章"></a>9. 删除文章</h3><p>只需要Close issue或者Delete issue后，再手动全局生成一次即可。</p>
 ]]></content>
       <tags>
-        <tag>如何____</tag>
         <tag>Github</tag>
+        <tag>如何____</tag>
         <tag>博客</tag>
       </tags>
   </entry>
