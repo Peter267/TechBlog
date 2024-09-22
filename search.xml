@@ -333,20 +333,6 @@
       </tags>
   </entry>
   <entry>
-    <title>如何让本地部署的大模型有个优雅的界面</title>
-    <url>/2024/07/31/%E5%A6%82%E4%BD%95%E8%AE%A9%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%89%E4%B8%AA%E4%BC%98%E9%9B%85%E7%9A%84%E7%95%8C%E9%9D%A2/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>有人可能受不了本地大模型这样辣鸡的聊天界面，本期博客教大家如何拥有一个<strong>优雅的聊天界面</strong><br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/ad27fe7274f2d9e0799d1.png" alt="4ab8d016-3abe-4c05-a826-e37cdb8a3596"></p>
-<h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>使用<a href="https://www.docker.com/">Docker</a>+<a href="https://github.com/open-webui/docs">OpenWebUI</a>来进行搭建</p>
-<h2 id="开始搭建"><a href="#开始搭建" class="headerlink" title="开始搭建"></a>开始搭建</h2><p>1.打开Docker官网，选择自己的电脑系统，点击下载。<br>2.打开OpenWebUI，找到About栏下方的链接，点击后找到GettingStarted→Installation with Default Configuration→If Ollama is on your computer, use this command，复制下面的代码<br>3.此时Docker已经下载完成，进入Docker（无需注册）<br>4.打开cmd窗口，输入复制的代码，所有内容下载完成后关闭<br>5.此时Docker的窗口已经出现了OpenWebUI，点击Port栏下面的端口即可打开聊天界面<br>6.注册一个账号，第一个注册的账号就是管理员账号<br>7.此时已经大功告成<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/b5ddcb8afb55e1124b36c.png" alt="image"></p>
-<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>Docker地下载花了我3个多小时，为此，我把下载链接放到网盘里了，需要自取<br><a href="https://peterwu.lanzout.com/iv7nh262gohi">蓝奏云</a></p>
-]]></content>
-      <tags>
-        <tag>AI纪元</tag>
-        <tag>如何____</tag>
-        <tag>折腾</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>如何流畅访问Github</title>
     <url>/2024/08/10/%E5%A6%82%E4%BD%95%E6%B5%81%E7%95%85%E8%AE%BF%E9%97%AEGithub/</url>
     <content><![CDATA[<blockquote>
@@ -369,78 +355,17 @@
       </tags>
   </entry>
   <entry>
-    <title>开源模型比闭源强？Llama3.1-405b发布！</title>
-    <url>/2024/07/26/%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E6%AF%94%E9%97%AD%E6%BA%90%E5%BC%BA%EF%BC%9FLlama3.1-405b%E5%8F%91%E5%B8%83%EF%BC%81/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>前天，MetaAI发布了超大尺寸的开源模型——Llama3.1-405b，使用Ollama就可以部署，教程参照上上期博客，在cmd窗口输入部署命令即可</p>
-<h2 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h2><table>
-<thead>
-<tr>
-<th>模型尺寸</th>
-<th>模型大小</th>
-<th>部署命令</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>llama3.1-8b</td>
-<td>4.7GB</td>
-<td><code>ollama run llama3.1:8b</code></td>
-</tr>
-<tr>
-<td>llama3.1-70b</td>
-<td>40GB</td>
-<td><code>ollama run llama3.1:70b</code></td>
-</tr>
-<tr>
-<td>llama3.1-405b</td>
-<td>231GB</td>
-<td><code>ollama run llama3.1:405b</code></td>
-</tr>
-</tbody></table>
-<h2 id="官方描述"><a href="#官方描述" class="headerlink" title="官方描述"></a>官方描述</h2><h3 id="Meta-Llama-3-1"><a href="#Meta-Llama-3-1" class="headerlink" title="Meta Llama 3.1"></a>Meta Llama 3.1</h3><p><img src="https://s21.ax1x.com/2024/08/21/pAieXKf.png" alt="4d0cab8e-952b-4c75-b110-1514d8db8fae"><br><strong>Llama 3.1</strong>模型系列可用： </p>
-<ul>
-<li><strong>8B</strong></li>
-<li><strong>70B</strong></li>
-<li><strong>405B</strong></li>
-</ul>
-<p>Llama 3.1 405B 是首个公开可用的模型，在常识、可操控性、数学、工具使用和多语言翻译等方面的先进能力上可与顶级人工智能模型相媲美。<br>8B 和 70B 模型的升级版本是多语言的，并且具有 128K 的显著更长的上下文长度、先进的工具使用能力和更强的整体推理能力。这使得 Meta 的最新模型能够支持高级用例，例如长篇文本摘要、多语言会话代理和编码助手。<br>Meta 还对其许可证进行了更改，允许开发人员使用 Llama 模型（包括 405B 模型）的输出以改进其他模型。</p>
-<p>对于此次发布，Meta 已在涵盖多种语言的 150 多个基准数据集上评估了性能。此外，Meta 进行了广泛的人工评估，在现实场景中将 Llama 3.1 与竞争模型进行了比较。Meta 的实验评估表明，我们的旗舰模型在一系列任务上与领先的基础模型（包括 GPT-4、GPT-4o 和 Claude 3.5 Sonnet）具有竞争力。此外，Meta 的较小模型与具有相似参数数量的封闭和开放模型具有竞争力。 </p>
-<h4 id="模型评估"><a href="#模型评估" class="headerlink" title="模型评估"></a>模型评估</h4><p>对于此次发布，Meta 已在超过 150 个涵盖多种语言的基准数据集上评估了性能。此外，Meta 进行了广泛的人工评估，在现实场景中将 Llama 3.1 与竞争模型进行了比较。Meta 的实验评估表明，我们的旗舰模型在包括 GPT-4、GPT-4o 和 Claude 3.5 Sonnet 在内的一系列任务中与领先的基础模型具有竞争力。此外，Meta 的较小模型与具有相似参数数量的封闭和开放模型具有竞争力。<br><img src="https://s21.ax1x.com/2024/08/21/pAiejr8.png" alt="73b11a5e-84e9-4397-9d47-f0299a6294b3"></p>
-<p><img src="https://s21.ax1x.com/2024/08/21/pAievqS.png" alt="ad042a1c-bbc7-47de-bbbf-78a3cfc13485"></p>
-<p><img src="https://s21.ax1x.com/2024/08/21/pAiezVg.png" alt="2d582df5-ce45-4326-85c5-254c917554b2"></p>
-<h4 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h4><ul>
-<li><a href="https://ai.meta.com/blog/meta-llama-3-1/">Meta AI Llama 3.1 launch blog post</a></li>
-</ul>
-<p>由<strong>豆包</strong>翻译</p>
-<hr>
-<p>什么，你想说你要在自己电脑上部署405b，很遗憾，<strong>你的电脑几乎不支持运转如此大规格的模型</strong>，你可以继续玩上次部署的Qwen2<br>我问了问通义千问，这是它说的<br>Ask：模型尺寸为405b的开源模型需要怎样的电脑可以部署<br>Answer：对于一个拥有4050亿参数的大规模语言模型，如Meta即将发布的Llama 3-405B模型，部署这样的模型需要非常强大的计算资源。以下是一些推荐的硬件配置要求：</p>
-<p>CPU<br>处理器: 高性能多核心处理器，例如Intel Xeon或AMD EPYC系列。这些处理器通常具有较多的核心数和较高的时钟速度，适合处理并行计算任务。<br>核心数量: 至少16核心，32核心或更多将更为理想。<br>缓存: 大量的三级缓存有助于提高性能。<br>GPU<br>显卡: 高端的专业级GPU，例如NVIDIA A100、H100或类似的高性能GPU。<br>显存: 至少32GB或更高，考虑到模型的大小，可能需要更大的显存。<br>CUDA核心数量: 越多越好，以支持并行处理能力。<br>内存 (RAM)<br>系统内存: 至少128GB或更高，以便能够存储模型和其他相关数据。<br>存储<br>SSD: 快速NVMe SSD用于操作系统和应用程序安装。<br>额外存储: 可能需要TB级别的存储空间来存放模型文件和其他相关数据。<br>其他组件<br>电源供应器 (PSU): 高功率且高效的电源供应器，至少850W以上。<br>冷却系统: 高效的散热解决方案，包括水冷系统。<br>主板: 支持所需CPU和GPU的高端主板，带有足够的PCI-E插槽。<br>网络连接<br>高速网络接口: 为了数据传输，可能需要10Gbps或更快的网络接口卡。<br>软件环境<br>操作系统: Linux发行版，比如Ubuntu Server，因为大多数深度学习框架都针对Linux进行了优化。<br>编程框架: PyTorch或其他支持大规模模型的框架。<br>驱动程序: 最新的GPU驱动程序以获得最佳性能。<br>请注意，<strong>上述配置是非常高端的，并且成本极高。部署这样规模的模型通常是在数据中心或云环境中进行的，而不是个人电脑。如果是在本地部署，那么这将是一个相当昂贵的投资。</strong>另外，由于模型的复杂性和计算需求，可能还需要分布式计算技术来分摊处理负载。</p>
-<h2 id="在线体验"><a href="#在线体验" class="headerlink" title="在线体验"></a>在线体验</h2><p>虽然不能本地部署，但可以线上体验呀（都需要魔法）</p>
-<h3 id="方式1：优先使用HuggingFace"><a href="#方式1：优先使用HuggingFace" class="headerlink" title="方式1：优先使用HuggingFace"></a>方式1：优先使用<a href="https://huggingface.co/">HuggingFace</a></h3><p>进入主页往下滑，找到“Trending on this week”→“Spaces”→“Llama3.1-405B”，点击后无需注册即可聊天，需要先调教下让它说中文。虽然加载进页面慢，但回复真的炒鸡快！<br><img src="https://github.com/user-attachments/assets/20099c67-9d6d-4b76-9eeb-50913a27405f" alt="屏幕截图_26-7-2024_17583_huggingface co"></p>
-<h3 id="方式2：使用MetaAI"><a href="#方式2：使用MetaAI" class="headerlink" title="方式2：使用MetaAI"></a>方式2：使用<a href="https://www.meta.ai/">MetaAI</a></h3><p>注册后即可使用</p>
+    <title>如何让本地部署的大模型有个优雅的界面</title>
+    <url>/2024/07/31/%E5%A6%82%E4%BD%95%E8%AE%A9%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%89%E4%B8%AA%E4%BC%98%E9%9B%85%E7%9A%84%E7%95%8C%E9%9D%A2/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>有人可能受不了本地大模型这样辣鸡的聊天界面，本期博客教大家如何拥有一个<strong>优雅的聊天界面</strong><br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/ad27fe7274f2d9e0799d1.png" alt="4ab8d016-3abe-4c05-a826-e37cdb8a3596"></p>
+<h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>使用<a href="https://www.docker.com/">Docker</a>+<a href="https://github.com/open-webui/docs">OpenWebUI</a>来进行搭建</p>
+<h2 id="开始搭建"><a href="#开始搭建" class="headerlink" title="开始搭建"></a>开始搭建</h2><p>1.打开Docker官网，选择自己的电脑系统，点击下载。<br>2.打开OpenWebUI，找到About栏下方的链接，点击后找到GettingStarted→Installation with Default Configuration→If Ollama is on your computer, use this command，复制下面的代码<br>3.此时Docker已经下载完成，进入Docker（无需注册）<br>4.打开cmd窗口，输入复制的代码，所有内容下载完成后关闭<br>5.此时Docker的窗口已经出现了OpenWebUI，点击Port栏下面的端口即可打开聊天界面<br>6.注册一个账号，第一个注册的账号就是管理员账号<br>7.此时已经大功告成<br><img src="https://5b8f364a.telegraph-image-cvj.pages.dev/file/b5ddcb8afb55e1124b36c.png" alt="image"></p>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>Docker地下载花了我3个多小时，为此，我把下载链接放到网盘里了，需要自取<br><a href="https://peterwu.lanzout.com/iv7nh262gohi">蓝奏云</a></p>
 ]]></content>
       <tags>
         <tag>AI纪元</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>网站故障说明</title>
-    <url>/2024/08/22/%E7%BD%91%E7%AB%99%E6%95%85%E9%9A%9C%E8%AF%B4%E6%98%8E/</url>
-    <content><![CDATA[<h1 id="重要通知-网站图床服务崩塌及解决方案"><a href="#重要通知-网站图床服务崩塌及解决方案" class="headerlink" title="重要通知: 网站图床服务崩塌及解决方案"></a>重要通知: 网站图床服务崩塌及解决方案</h1><p>深深地向大家道歉。由于我个人的疏忽以及图床服务商服务中断的问题，这是一个P3级事故，导致我们的网站遇到了一些技术问题，这影响了您的体验。我在这里详细说明发生了什么，目前的状态，以及我们的临时解决方案。</p>
-<h2 id="问题说明"><a href="#问题说明" class="headerlink" title="问题说明"></a>问题说明</h2><p>本站的图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 因为各种原因在8月21日~8月22日期间所有上传的图片全部无法打开，这导致了本站所有使用此图床服务的图片全部无法打开。<br><img src="https://s21.ax1x.com/2024/08/22/pAi2tvd.png" alt="问题图片"></p>
-<h2 id="当前状态"><a href="#当前状态" class="headerlink" title="当前状态"></a>当前状态</h2><p>经过我的检查，此图床的主页可以打开，但图片无法打开，这需要一段时间才能解决或无法解决<br>由于这一问题，我们的网站目前处于不完整的状态，影响了用户的正常访问。</p>
-<h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>本站在前几天就表示要更换图床服务，目前已经全部更换所有文章的图床服务，所以，文章您可以正常访问。其他位置的图片正在加急处理。</p>
-<h2 id="后续措施"><a href="#后续措施" class="headerlink" title="后续措施"></a>后续措施</h2><p>我们深感抱歉因个人疏忽和图床服务商的服务中断给您带来的不便。请知悉，我们正在尽一切努力解决这一问题，并将从中吸取教训，未来将进一步加强网站的稳定性和制定更周全的应急预案，避免类似情况的再次发生。</p>
-<p>我们深知这次事件可能影响了您对我们网站的信任，但请您相信，我们全力以赴地解决问题，并始终致力于提供最佳的服务和体验。感谢您的理解与支持。</p>
-<p>如果您有任何问题或需要进一步的帮助，请随时与我们联系。</p>
-<p>祝好</p>
-<p>[Peter267]</p>
-<ul>
-<li>8月22日15:00<br>友人帐页面图片已经恢复访问</li>
-<li>8月22日晚上<br>原图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 已经恢复，本站已经恢复所有图片的访问（但加载缓慢）</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>其他</tag>
+        <tag>如何____</tag>
+        <tag>折腾</tag>
       </tags>
   </entry>
   <entry>
@@ -552,6 +477,81 @@
         <tag>如何____</tag>
         <tag>折腾</tag>
         <tag>PHP</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站故障说明</title>
+    <url>/2024/08/22/%E7%BD%91%E7%AB%99%E6%95%85%E9%9A%9C%E8%AF%B4%E6%98%8E/</url>
+    <content><![CDATA[<h1 id="重要通知-网站图床服务崩塌及解决方案"><a href="#重要通知-网站图床服务崩塌及解决方案" class="headerlink" title="重要通知: 网站图床服务崩塌及解决方案"></a>重要通知: 网站图床服务崩塌及解决方案</h1><p>深深地向大家道歉。由于我个人的疏忽以及图床服务商服务中断的问题，这是一个P3级事故，导致我们的网站遇到了一些技术问题，这影响了您的体验。我在这里详细说明发生了什么，目前的状态，以及我们的临时解决方案。</p>
+<h2 id="问题说明"><a href="#问题说明" class="headerlink" title="问题说明"></a>问题说明</h2><p>本站的图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 因为各种原因在8月21日~8月22日期间所有上传的图片全部无法打开，这导致了本站所有使用此图床服务的图片全部无法打开。<br><img src="https://s21.ax1x.com/2024/08/22/pAi2tvd.png" alt="问题图片"></p>
+<h2 id="当前状态"><a href="#当前状态" class="headerlink" title="当前状态"></a>当前状态</h2><p>经过我的检查，此图床的主页可以打开，但图片无法打开，这需要一段时间才能解决或无法解决<br>由于这一问题，我们的网站目前处于不完整的状态，影响了用户的正常访问。</p>
+<h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>本站在前几天就表示要更换图床服务，目前已经全部更换所有文章的图床服务，所以，文章您可以正常访问。其他位置的图片正在加急处理。</p>
+<h2 id="后续措施"><a href="#后续措施" class="headerlink" title="后续措施"></a>后续措施</h2><p>我们深感抱歉因个人疏忽和图床服务商的服务中断给您带来的不便。请知悉，我们正在尽一切努力解决这一问题，并将从中吸取教训，未来将进一步加强网站的稳定性和制定更周全的应急预案，避免类似情况的再次发生。</p>
+<p>我们深知这次事件可能影响了您对我们网站的信任，但请您相信，我们全力以赴地解决问题，并始终致力于提供最佳的服务和体验。感谢您的理解与支持。</p>
+<p>如果您有任何问题或需要进一步的帮助，请随时与我们联系。</p>
+<p>祝好</p>
+<p>[Peter267]</p>
+<ul>
+<li>8月22日15:00<br>友人帐页面图片已经恢复访问</li>
+<li>8月22日晚上<br>原图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 已经恢复，本站已经恢复所有图片的访问（但加载缓慢）</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>其他</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>开源模型比闭源强？Llama3.1-405b发布！</title>
+    <url>/2024/07/26/%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E6%AF%94%E9%97%AD%E6%BA%90%E5%BC%BA%EF%BC%9FLlama3.1-405b%E5%8F%91%E5%B8%83%EF%BC%81/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>前天，MetaAI发布了超大尺寸的开源模型——Llama3.1-405b，使用Ollama就可以部署，教程参照上上期博客，在cmd窗口输入部署命令即可</p>
+<h2 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h2><table>
+<thead>
+<tr>
+<th>模型尺寸</th>
+<th>模型大小</th>
+<th>部署命令</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>llama3.1-8b</td>
+<td>4.7GB</td>
+<td><code>ollama run llama3.1:8b</code></td>
+</tr>
+<tr>
+<td>llama3.1-70b</td>
+<td>40GB</td>
+<td><code>ollama run llama3.1:70b</code></td>
+</tr>
+<tr>
+<td>llama3.1-405b</td>
+<td>231GB</td>
+<td><code>ollama run llama3.1:405b</code></td>
+</tr>
+</tbody></table>
+<h2 id="官方描述"><a href="#官方描述" class="headerlink" title="官方描述"></a>官方描述</h2><h3 id="Meta-Llama-3-1"><a href="#Meta-Llama-3-1" class="headerlink" title="Meta Llama 3.1"></a>Meta Llama 3.1</h3><p><img src="https://s21.ax1x.com/2024/08/21/pAieXKf.png" alt="4d0cab8e-952b-4c75-b110-1514d8db8fae"><br><strong>Llama 3.1</strong>模型系列可用： </p>
+<ul>
+<li><strong>8B</strong></li>
+<li><strong>70B</strong></li>
+<li><strong>405B</strong></li>
+</ul>
+<p>Llama 3.1 405B 是首个公开可用的模型，在常识、可操控性、数学、工具使用和多语言翻译等方面的先进能力上可与顶级人工智能模型相媲美。<br>8B 和 70B 模型的升级版本是多语言的，并且具有 128K 的显著更长的上下文长度、先进的工具使用能力和更强的整体推理能力。这使得 Meta 的最新模型能够支持高级用例，例如长篇文本摘要、多语言会话代理和编码助手。<br>Meta 还对其许可证进行了更改，允许开发人员使用 Llama 模型（包括 405B 模型）的输出以改进其他模型。</p>
+<p>对于此次发布，Meta 已在涵盖多种语言的 150 多个基准数据集上评估了性能。此外，Meta 进行了广泛的人工评估，在现实场景中将 Llama 3.1 与竞争模型进行了比较。Meta 的实验评估表明，我们的旗舰模型在一系列任务上与领先的基础模型（包括 GPT-4、GPT-4o 和 Claude 3.5 Sonnet）具有竞争力。此外，Meta 的较小模型与具有相似参数数量的封闭和开放模型具有竞争力。 </p>
+<h4 id="模型评估"><a href="#模型评估" class="headerlink" title="模型评估"></a>模型评估</h4><p>对于此次发布，Meta 已在超过 150 个涵盖多种语言的基准数据集上评估了性能。此外，Meta 进行了广泛的人工评估，在现实场景中将 Llama 3.1 与竞争模型进行了比较。Meta 的实验评估表明，我们的旗舰模型在包括 GPT-4、GPT-4o 和 Claude 3.5 Sonnet 在内的一系列任务中与领先的基础模型具有竞争力。此外，Meta 的较小模型与具有相似参数数量的封闭和开放模型具有竞争力。<br><img src="https://s21.ax1x.com/2024/08/21/pAiejr8.png" alt="73b11a5e-84e9-4397-9d47-f0299a6294b3"></p>
+<p><img src="https://s21.ax1x.com/2024/08/21/pAievqS.png" alt="ad042a1c-bbc7-47de-bbbf-78a3cfc13485"></p>
+<p><img src="https://s21.ax1x.com/2024/08/21/pAiezVg.png" alt="2d582df5-ce45-4326-85c5-254c917554b2"></p>
+<h4 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h4><ul>
+<li><a href="https://ai.meta.com/blog/meta-llama-3-1/">Meta AI Llama 3.1 launch blog post</a></li>
+</ul>
+<p>由<strong>豆包</strong>翻译</p>
+<hr>
+<p>什么，你想说你要在自己电脑上部署405b，很遗憾，<strong>你的电脑几乎不支持运转如此大规格的模型</strong>，你可以继续玩上次部署的Qwen2<br>我问了问通义千问，这是它说的<br>Ask：模型尺寸为405b的开源模型需要怎样的电脑可以部署<br>Answer：对于一个拥有4050亿参数的大规模语言模型，如Meta即将发布的Llama 3-405B模型，部署这样的模型需要非常强大的计算资源。以下是一些推荐的硬件配置要求：</p>
+<p>CPU<br>处理器: 高性能多核心处理器，例如Intel Xeon或AMD EPYC系列。这些处理器通常具有较多的核心数和较高的时钟速度，适合处理并行计算任务。<br>核心数量: 至少16核心，32核心或更多将更为理想。<br>缓存: 大量的三级缓存有助于提高性能。<br>GPU<br>显卡: 高端的专业级GPU，例如NVIDIA A100、H100或类似的高性能GPU。<br>显存: 至少32GB或更高，考虑到模型的大小，可能需要更大的显存。<br>CUDA核心数量: 越多越好，以支持并行处理能力。<br>内存 (RAM)<br>系统内存: 至少128GB或更高，以便能够存储模型和其他相关数据。<br>存储<br>SSD: 快速NVMe SSD用于操作系统和应用程序安装。<br>额外存储: 可能需要TB级别的存储空间来存放模型文件和其他相关数据。<br>其他组件<br>电源供应器 (PSU): 高功率且高效的电源供应器，至少850W以上。<br>冷却系统: 高效的散热解决方案，包括水冷系统。<br>主板: 支持所需CPU和GPU的高端主板，带有足够的PCI-E插槽。<br>网络连接<br>高速网络接口: 为了数据传输，可能需要10Gbps或更快的网络接口卡。<br>软件环境<br>操作系统: Linux发行版，比如Ubuntu Server，因为大多数深度学习框架都针对Linux进行了优化。<br>编程框架: PyTorch或其他支持大规模模型的框架。<br>驱动程序: 最新的GPU驱动程序以获得最佳性能。<br>请注意，<strong>上述配置是非常高端的，并且成本极高。部署这样规模的模型通常是在数据中心或云环境中进行的，而不是个人电脑。如果是在本地部署，那么这将是一个相当昂贵的投资。</strong>另外，由于模型的复杂性和计算需求，可能还需要分布式计算技术来分摊处理负载。</p>
+<h2 id="在线体验"><a href="#在线体验" class="headerlink" title="在线体验"></a>在线体验</h2><p>虽然不能本地部署，但可以线上体验呀（都需要魔法）</p>
+<h3 id="方式1：优先使用HuggingFace"><a href="#方式1：优先使用HuggingFace" class="headerlink" title="方式1：优先使用HuggingFace"></a>方式1：优先使用<a href="https://huggingface.co/">HuggingFace</a></h3><p>进入主页往下滑，找到“Trending on this week”→“Spaces”→“Llama3.1-405B”，点击后无需注册即可聊天，需要先调教下让它说中文。虽然加载进页面慢，但回复真的炒鸡快！<br><img src="https://github.com/user-attachments/assets/20099c67-9d6d-4b76-9eeb-50913a27405f" alt="屏幕截图_26-7-2024_17583_huggingface co"></p>
+<h3 id="方式2：使用MetaAI"><a href="#方式2：使用MetaAI" class="headerlink" title="方式2：使用MetaAI"></a>方式2：使用<a href="https://www.meta.ai/">MetaAI</a></h3><p>注册后即可使用</p>
+]]></content>
+      <tags>
+        <tag>AI纪元</tag>
       </tags>
   </entry>
 </search>
