@@ -9,31 +9,8 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>这是一个融合设计与人工智能的探索中心，提供尖端工具和创意理念。无论你是设计师还是技术发烧友，这里丰富的资源和教程都能激发你的灵感。</description>
-    <pubDate>Sat, 05 Oct 2024 05:02:18 GMT</pubDate>
+    <pubDate>Fri, 27 Sep 2024 13:33:06 GMT</pubDate>
     <generator>http://hexo.io/</generator>
-    
-    <item>
-      <title></title>
-      <link>http://example.com/2024/10/05/%E4%B8%80%E3%80%81%E6%88%91%E5%9B%BD%E5%A2%83%E5%86%85%E7%9A%84%E5%8F%A4%E4%BA%BA%E7%B1%BB/</link>
-      <guid>http://example.com/2024/10/05/%E4%B8%80%E3%80%81%E6%88%91%E5%9B%BD%E5%A2%83%E5%86%85%E7%9A%84%E5%8F%A4%E4%BA%BA%E7%B1%BB/</guid>
-      <pubDate>Sat, 05 Oct 2024 04:57:46 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description></description>
-          
-        
-      
-      
-      
-      
-      
-      
-      <comments>http://example.com/2024/10/05/%E4%B8%80%E3%80%81%E6%88%91%E5%9B%BD%E5%A2%83%E5%86%85%E7%9A%84%E5%8F%A4%E4%BA%BA%E7%B1%BB/#disqus_thread</comments>
-      
-    </item>
     
     <item>
       <title>周记     2024.9.8-2024.9.22</title>
@@ -291,9 +268,9 @@
       <category domain="http://example.com/categories/AI%E6%92%B0%E5%86%99/">AI撰写</category>
       
       
-      <category domain="http://example.com/tags/%E6%96%B0%E9%97%BB/">新闻</category>
-      
       <category domain="http://example.com/tags/AI%E7%BA%AA%E5%85%83/">AI纪元</category>
+      
+      <category domain="http://example.com/tags/%E6%96%B0%E9%97%BB/">新闻</category>
       
       <category domain="http://example.com/tags/AI%E6%92%B0%E5%86%99/">AI撰写</category>
       
