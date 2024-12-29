@@ -5,7 +5,7 @@
   diytitle: {"enable":true,"leaveTitle":"w(ﾟДﾟ)w 不要走！再看看嘛！","backTitle":"♪(^∇^*)欢迎肥来！"},
   LA51: {"enable":true,"ck":"3JGhjFbOViz1JY0z","LingQueMonitorID":"3JGhnuqUb2FzrIHp"},
   greetingBox: undefined,
-  twikooEnvId: 'https://peter267-blogcomments.hf.space/',
+  twikooEnvId: 'https://jocular-khapse-ea5ba1.netlify.app/.netlify/functions/twikoo',
   commentBarrageConfig:{"enable":true,"maxBarrage":2,"barrageTime":4000,"accessToken":"9096003bd544d240e7e829dcd062dbba","mailMd5":"miaomiaoweiqi@163.com"},
   root: '/',
   preloader: {"source":3},
@@ -386,7 +386,7 @@ queueMicrotask(() => {
   const init = () => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
-      envId: 'https://peter267-blogcomments.hf.space/',
+      envId: 'https://jocular-khapse-ea5ba1.netlify.app/.netlify/functions/twikoo',
       region: '',
       onCommentLoaded: () => {
         anzhiyu.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
@@ -403,7 +403,7 @@ queueMicrotask(() => {
     const countELement = document.getElementById('twikoo-count')
     if(!countELement) return
     twikoo.getCommentsCount({
-      envId: 'https://peter267-blogcomments.hf.space/',
+      envId: 'https://jocular-khapse-ea5ba1.netlify.app/.netlify/functions/twikoo',
       region: '',
       urls: [window.location.pathname],
       includeReply: false
@@ -445,7 +445,7 @@ queueMicrotask(() => {
   const getComment = () => {
     const runTwikoo = () => {
       twikoo.getRecentComments({
-        envId: 'https://peter267-blogcomments.hf.space/',
+        envId: 'https://jocular-khapse-ea5ba1.netlify.app/.netlify/functions/twikoo',
         region: '',
         pageSize: 6,
         includeReply: true
