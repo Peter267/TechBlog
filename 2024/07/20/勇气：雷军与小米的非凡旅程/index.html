@@ -393,7 +393,7 @@ queueMicrotask(() => {
 
   const loadTwikoo = () => {
     if (typeof twikoo === 'object') setTimeout(runFn,0)
-    else getScript('https://s4.zstatic.net/ajax/libs/twikoo/1.6.41/twikoo.all.min.js').then(runFn)
+    else getScript('https://s4.zstatic.net/ajax/libs/twikoo/1.6.40/twikoo.all.min.js').then(runFn)
   }
 
   const getCount = () => {
@@ -468,7 +468,7 @@ queueMicrotask(() => {
     if (typeof twikoo === 'object') {
       runTwikoo()
     } else {
-      getScript('https://s4.zstatic.net/ajax/libs/twikoo/1.6.41/twikoo.all.min.js').then(runTwikoo)
+      getScript('https://s4.zstatic.net/ajax/libs/twikoo/1.6.40/twikoo.all.min.js').then(runTwikoo)
     }
   }
 
