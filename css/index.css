@@ -10914,6 +10914,12 @@ h1.page-title + .tag-cloud-list {
   -ms-transition: 0.6s;
   transition: 0.6s;
   overflow: hidden;
+  -webkit-animation: header 5s linear forwards;
+  -moz-animation: header 5s linear forwards;
+  -o-animation: header 5s linear forwards;
+  -ms-animation: header 5s linear forwards;
+  animation: header 5s linear forwards;
+  animation-timeline: view();
   background-color: var(--anzhiyu-bar-background);
 }
 #page-header.post-bg #nav {
@@ -20292,6 +20298,15 @@ a
   border-top: var(--style-border);
   -webkit-box-shadow: var(--anzhiyu-shadow-border);
   box-shadow: var(--anzhiyu-shadow-border);
+  -webkit-animation: animate-in-and-out 1s linear forwards;
+  -moz-animation: animate-in-and-out 1s linear forwards;
+  -o-animation: animate-in-and-out 1s linear forwards;
+  -ms-animation: animate-in-and-out 1s linear forwards;
+  animation: animate-in-and-out 1s linear forwards;
+  animation-timeline: view();
+}
+#page .tk-comments-container > .tk-comment:has(.OwO-open) {
+  z-index: 1;
 }
 .tk-content {
   margin-top: 0.5rem;
