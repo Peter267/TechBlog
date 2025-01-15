@@ -52,6 +52,59 @@
       </tags>
   </entry>
   <entry>
+    <title>Everything文件搜索：秒杀文件管理器</title>
+    <url>/2024/10/12/Everything%E6%96%87%E4%BB%B6%E6%90%9C%E7%B4%A2%EF%BC%9A%E7%A7%92%E6%9D%80%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8/</url>
+    <content><![CDATA[<p>大家都用过系统自带的文件管理器的搜索功能吧，是不是慢的一批，本文介绍的工具就是专门来解决这个问题的，让你的搜索速度提升200％！</p>
+<h2 id="关于Everything"><a href="#关于Everything" class="headerlink" title="关于Everything"></a>关于Everything</h2><p><strong>Everything</strong> 是一款轻量级的文件搜索工具，专为 Windows 系统设计。它可以实时索引你电脑上的所有文件和文件夹，帮助你几乎瞬间找到目标文件。与传统的文件搜索工具不同，Everything 通过创建文件索引的方式来加速搜索过程，因此它能非常高效地完成任务，数万文件1秒完成！</p>
+<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p>这里是软件官网，你可以从这里下载</p>
+<div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://www.voidtools.com/zh-cn/">
+    <div class="tag-link-tips">引用站外地址</div>
+    <div class="tag-link-bottom">
+        <div class="tag-link-left" style="">
+          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>
+        </div>
+        <div class="tag-link-right">
+            <div class="tag-link-title">Everything官网</div>
+            <div class="tag-link-sitename"> 下载任意版本均可</div>
+        </div>
+        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>
+    </div>
+    </a></div>
+
+<p>也可以到我的文件站进行下载，点击左上角的六个点即可看到网站</p>
+<h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><p>安装完成后，打开 Everything，它会开始自动索引你的文件系统。首次索引可能需要一些时间，具体时间取决于你硬盘文件的数量和大小。不过一旦索引完成，后续的文件搜索几乎是<strong>瞬时完成</strong>的，无需再等待。</p>
+<p><img src="https://wmimg.com/i/1169/2024/10/670a744cb7a8c.png" alt="软件截图"></p>
+<p>搜索真的比自带的快n倍</p>
+]]></content>
+      <categories>
+        <category>软件推荐</category>
+      </categories>
+      <tags>
+        <tag>Windows系统</tag>
+        <tag>软件</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GithubModels：免费AI大模型</title>
+    <url>/2024/08/30/GithubModels%EF%BC%9A%E5%85%8D%E8%B4%B9AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BC%81/</url>
+    <content><![CDATA[<blockquote>
+<p>真写不出啥来了，凑合看吧😪</p>
+</blockquote>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>在国内，当我们想跟GPT-4o聊天时，并且还是多次的，简直是<del>想peach</del>，几乎没有什么平台能让你每天多次跟GPT聊天的，可现在，<strong>它来了</strong>！<br><img src="https://peterimg.pages.dev/file/587e048f9b4c5f7337d83.png" alt="image"></p>
+<h2 id="申请资格"><a href="#申请资格" class="headerlink" title="申请资格"></a>申请资格</h2><p>GithubModels 是一个大模型测试平台，需要加入等待列表等待审批后使用的，如果你还没有申请，<a href="https://github.com/marketplace/models/waitlist/join">点击申请</a>，我从申请到通过花了3周左右</p>
+<h2 id="食用"><a href="#食用" class="headerlink" title="食用"></a>食用</h2><p>好的，你已经申请成功了！现在来聊天吧，<a href="https://github.com/marketplace?type=models">点击这里</a>来聊天吧！<br><img src="https://peterimg.pages.dev/file/0bfde365f399d48428f36.png" alt="一如既往"><br>你也可以在左侧调整模型的参数，如下<br><img src="https://peterimg.pages.dev/file/6bbbfb9b02700ab169f26.png" alt="image"></p>
+<h2 id="限制"><a href="#限制" class="headerlink" title="限制"></a>限制</h2><p>不同型号的模型有着不同的限制，分为Low、High、Embedding，你可以在这里查看模型的种类<br><img src="https://peterimg.pages.dev/file/4af9b9dcec36c8774537f.png" alt="image"><br>相关限制如下：<br><img src="https://peterimg.pages.dev/file/c3aac4f69887a6872ac0c.png" alt="image"></p>
+]]></content>
+      <categories>
+        <category>服务推荐</category>
+      </categories>
+      <tags>
+        <tag>AI纪元</tag>
+        <tag>Github</tag>
+        <tag>推荐</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2024年度浏览器扩展推荐</title>
     <url>/2025/01/14/2024%E5%B9%B4%E5%BA%A6%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95%E6%8E%A8%E8%8D%90/</url>
     <content><![CDATA[<p>2024年（好像）是我第3年使用Edge浏览器了，虽然Edge最近的行为有点恶心，但依然非常喜欢用。喜欢用的原因不仅是因为Edge好用，还有插件的功劳。在这篇文章，我来介绍下我在今年（2024年）中使用的扩展。</p>
@@ -121,41 +174,8 @@
         <category>软件推荐</category>
       </categories>
       <tags>
+        <tag>软件</tag>
         <tag>浏览器</tag>
-        <tag>软件</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Everything文件搜索：秒杀文件管理器</title>
-    <url>/2024/10/12/Everything%E6%96%87%E4%BB%B6%E6%90%9C%E7%B4%A2%EF%BC%9A%E7%A7%92%E6%9D%80%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8/</url>
-    <content><![CDATA[<p>大家都用过系统自带的文件管理器的搜索功能吧，是不是慢的一批，本文介绍的工具就是专门来解决这个问题的，让你的搜索速度提升200％！</p>
-<h2 id="关于Everything"><a href="#关于Everything" class="headerlink" title="关于Everything"></a>关于Everything</h2><p><strong>Everything</strong> 是一款轻量级的文件搜索工具，专为 Windows 系统设计。它可以实时索引你电脑上的所有文件和文件夹，帮助你几乎瞬间找到目标文件。与传统的文件搜索工具不同，Everything 通过创建文件索引的方式来加速搜索过程，因此它能非常高效地完成任务，数万文件1秒完成！</p>
-<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p>这里是软件官网，你可以从这里下载</p>
-<div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://www.voidtools.com/zh-cn/">
-    <div class="tag-link-tips">引用站外地址</div>
-    <div class="tag-link-bottom">
-        <div class="tag-link-left" style="">
-          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>
-        </div>
-        <div class="tag-link-right">
-            <div class="tag-link-title">Everything官网</div>
-            <div class="tag-link-sitename"> 下载任意版本均可</div>
-        </div>
-        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>
-    </div>
-    </a></div>
-
-<p>也可以到我的文件站进行下载，点击左上角的六个点即可看到网站</p>
-<h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><p>安装完成后，打开 Everything，它会开始自动索引你的文件系统。首次索引可能需要一些时间，具体时间取决于你硬盘文件的数量和大小。不过一旦索引完成，后续的文件搜索几乎是<strong>瞬时完成</strong>的，无需再等待。</p>
-<p><img src="https://wmimg.com/i/1169/2024/10/670a744cb7a8c.png" alt="软件截图"></p>
-<p>搜索真的比自带的快n倍</p>
-]]></content>
-      <categories>
-        <category>软件推荐</category>
-      </categories>
-      <tags>
-        <tag>软件</tag>
-        <tag>Windows系统</tag>
       </tags>
   </entry>
   <entry>
@@ -183,26 +203,6 @@
       </categories>
       <tags>
         <tag>Github</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GithubModels：免费AI大模型</title>
-    <url>/2024/08/30/GithubModels%EF%BC%9A%E5%85%8D%E8%B4%B9AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BC%81/</url>
-    <content><![CDATA[<blockquote>
-<p>真写不出啥来了，凑合看吧😪</p>
-</blockquote>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>在国内，当我们想跟GPT-4o聊天时，并且还是多次的，简直是<del>想peach</del>，几乎没有什么平台能让你每天多次跟GPT聊天的，可现在，<strong>它来了</strong>！<br><img src="https://peterimg.pages.dev/file/587e048f9b4c5f7337d83.png" alt="image"></p>
-<h2 id="申请资格"><a href="#申请资格" class="headerlink" title="申请资格"></a>申请资格</h2><p>GithubModels 是一个大模型测试平台，需要加入等待列表等待审批后使用的，如果你还没有申请，<a href="https://github.com/marketplace/models/waitlist/join">点击申请</a>，我从申请到通过花了3周左右</p>
-<h2 id="食用"><a href="#食用" class="headerlink" title="食用"></a>食用</h2><p>好的，你已经申请成功了！现在来聊天吧，<a href="https://github.com/marketplace?type=models">点击这里</a>来聊天吧！<br><img src="https://peterimg.pages.dev/file/0bfde365f399d48428f36.png" alt="一如既往"><br>你也可以在左侧调整模型的参数，如下<br><img src="https://peterimg.pages.dev/file/6bbbfb9b02700ab169f26.png" alt="image"></p>
-<h2 id="限制"><a href="#限制" class="headerlink" title="限制"></a>限制</h2><p>不同型号的模型有着不同的限制，分为Low、High、Embedding，你可以在这里查看模型的种类<br><img src="https://peterimg.pages.dev/file/4af9b9dcec36c8774537f.png" alt="image"><br>相关限制如下：<br><img src="https://peterimg.pages.dev/file/c3aac4f69887a6872ac0c.png" alt="image"></p>
-]]></content>
-      <categories>
-        <category>服务推荐</category>
-      </categories>
-      <tags>
-        <tag>AI纪元</tag>
-        <tag>Github</tag>
-        <tag>推荐</tag>
       </tags>
   </entry>
   <entry>
@@ -234,6 +234,140 @@
       <tags>
         <tag>科普</tag>
         <tag>如何____</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《独立博客自省问卷15题》答卷</title>
+    <url>/2024/10/31/%E3%80%8A%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2%E8%87%AA%E7%9C%81%E9%97%AE%E5%8D%B715%E9%A2%98%E3%80%8B%E7%AD%94%E5%8D%B7/</url>
+    <content><![CDATA[<h2 id="开头废话"><a href="#开头废话" class="headerlink" title="开头废话"></a>开头废话</h2><p>这两天通过<a href="https://xyzbz.cn/">网友小宋</a>分享的文章看到了雅余大佬的<a href="https://yayu.net/4626.html">独立博客自省问卷15题</a>，两周没更了，今天特意水一期文章</p>
+<hr>
+<h2 id="独立博客自省问卷15题"><a href="#独立博客自省问卷15题" class="headerlink" title="独立博客自省问卷15题"></a>独立博客自省问卷15题</h2><p><strong>1、你的博客更新频率是多少？</strong></p>
+<p>A.每周更新</p>
+<p>B.一周数篇</p>
+<p>C.一月1-2篇</p>
+<p>D.几个月一篇</p>
+<blockquote>
+<p>C 最近忙了，一个月最多三篇</p>
+</blockquote>
+<p><strong>2、你的博客上次更新是什么时候？</strong></p>
+<p>A.本周</p>
+<p>B.上周</p>
+<p>C.上个月</p>
+<p>D.上季度</p>
+<blockquote>
+<p>B 就是因为这样才水的这篇文章</p>
+</blockquote>
+<p><strong>3、你的博客文章是原创的吗？</strong></p>
+<p>A.坚持原创</p>
+<p>B.部分借鉴</p>
+<p>C.AI 帮我写的</p>
+<p>D.搬运别人的，而且不署名</p>
+<blockquote>
+<p>ABC 95％原创，3％借鉴，2％AI写的</p>
+</blockquote>
+<p><strong>4、你觉得自己的文章对他人有帮助吗？</strong></p>
+<p>A.旨在对他人有启示</p>
+<p>B.多少有点意义</p>
+<p>C.每日每周流水账</p>
+<p>D.自我陶醉就好，管他呢</p>
+<blockquote>
+<p>B 还是多少有点吧</p>
+</blockquote>
+<p><strong>5、你上次换博客主题&#x2F;程序是什么时候？</strong></p>
+<p>A.上周</p>
+<p>B.上个月</p>
+<p>C.去年</p>
+<p>D.凭良心说，我多年都是一个主题</p>
+<blockquote>
+<p>D 虽然想换但是懒，还没时间</p>
+</blockquote>
+<p><strong>6、你上一次捣腾博客主题代码是什么时候？</strong></p>
+<p>A.昨天，撸代码到凌晨</p>
+<p>B.每周必捣腾</p>
+<p>C.每月有那么一次</p>
+<p>D.一年有那么一次</p>
+<blockquote>
+<p>C 在对一些博客自带的描述不满意或者增加功能但作者并没有直接给入口时会自己倒腾</p>
+</blockquote>
+<p><strong>7、你会对博客主题进行二次开发？</strong></p>
+<p>A.直接配置使用，省心不折腾</p>
+<p>B.时不时自己改改，搞点新花样，换图片，换字体，爽</p>
+<p>C.删除主题作者版权信息，改改样式，然后自我感觉良好</p>
+<p>D.改得面目全非，但保留原作者版权信息或注明</p>
+<blockquote>
+<p>A 懒啊</p>
+</blockquote>
+<p><strong>8、你多久打开自己博客自我陶醉一次？</strong></p>
+<p>A.每天数次</p>
+<p>B.每周一次</p>
+<p>C.看心情</p>
+<p>D.一般都是照镜子，不看博客</p>
+<blockquote>
+<p>AC 无聊时会看看，看完更无聊</p>
+</blockquote>
+<p><strong>9、你近期对自己博客域名什么感受？</strong></p>
+<p>A.想搞到一个 .COM 的域名</p>
+<p>B.如果域名能再短几个字符就更好了</p>
+<p>C.今年才换双拼域名了，明年再看看</p>
+<p>D.目前挺好，没想法</p>
+<blockquote>
+<p>A 是真想啊，但是目前不允许我这样做</p>
+</blockquote>
+<p><strong>10、你每天都会看网站的流量统计吗？</strong></p>
+<p>A.每天看几次，今天又多了100PV</p>
+<p>B.每周回顾，看看流量趋势</p>
+<p>C.记得就看看</p>
+<p>D.没有搞流量统计，都是浮云</p>
+<blockquote>
+<p>C 偶尔吧，看看博客最近怎么样，感觉这还是很重要的</p>
+</blockquote>
+<p><strong>11、你通过博客的广告赚到钱了吗？</strong></p>
+<p>A.有，能覆盖建站费用</p>
+<p>B.有，但付出大于收入</p>
+<p>C.没考虑通过博客流量赚钱</p>
+<p>D.拒绝广告，保证阅读体验</p>
+<blockquote>
+<p>D 目前没有广告的方法，等以后有实力了可能会写付费文章赚钱</p>
+</blockquote>
+<p><strong>12、你去浏览别人的博客&#x2F;网站主要为什么？</strong></p>
+<p>A.学习别人分享的知识</p>
+<p>B.搬运别人的内容</p>
+<p>C.看看别人怎么装修博客，自己也抄一下，感觉都比自己的好</p>
+<p>D.不爱看别人博客，自己爱写啥写啥</p>
+<blockquote>
+<p>AC 主要还是看看写的什么吧</p>
+</blockquote>
+<p><strong>13、看到别人分享了一篇文章，你打开第一反应是什么？</strong></p>
+<p>A.哇，这域名真不错，怎么我没想到</p>
+<p>B.哇，这网站速度真快，图片延迟加载丝滑</p>
+<p>C.哇，这程序&#x2F;主题不错，我也要抄一抄&#x2F;留言问问哪里搞的</p>
+<p>D.看看文章内容</p>
+<blockquote>
+<p>D 同12问。同时也会注重速度和程序&#x2F;主题</p>
+</blockquote>
+<p><strong>14、你觉得博客哪方面更重要？</strong></p>
+<p>A.域名</p>
+<p>B.服务器</p>
+<p>C.主题</p>
+<p>D.内容</p>
+<blockquote>
+<p>D 内容才是博客的基石，其他都是次要的</p>
+</blockquote>
+<p><strong>15、近期通过写博客有哪些新收获？</strong></p>
+<p>A.知识面有拓展</p>
+<p>B.认识了新朋友</p>
+<p>C.写作水平提升</p>
+<p>D.通过知识变现</p>
+<blockquote>
+<p>ABC 都有吧，最主要的是知识面有拓展</p>
+</blockquote>
+<p>That’s all</p>
+]]></content>
+      <categories>
+        <category>闲聊杂谈</category>
+      </categories>
+      <tags>
+        <tag>水</tag>
       </tags>
   </entry>
   <entry>
@@ -451,179 +585,6 @@
       </tags>
   </entry>
   <entry>
-    <title>功成不必在我，功成必定有我</title>
-    <url>/2024/10/20/%E5%8A%9F%E6%88%90%E4%B8%8D%E5%BF%85%E5%9C%A8%E6%88%91%EF%BC%8C%E5%8A%9F%E6%88%90%E5%BF%85%E5%AE%9A%E6%9C%89%E6%88%91/</url>
-    <content><![CDATA[<p>在校运会练习走方队的过程中，我理解了“功成不必在我，功成必定有我”的真正含义。这让我懂得，一个集体的成功，靠的是每个人的小小的努力。</p>
-<p>初次练习时，我只想着自己能走得最好。但很快发现，方队的整齐划一取决于所有人的步调一致。即使某个人做得再好，如果不能与大家协调，整个方队的队形也会受到影响。我们需要关注身边的同学，互相配合，才能让方队在运动会开幕时展现出最佳效果。</p>
-<p>训练中，我学会了关注身边的同学，和大家保持步调一致。少了谁都不行，而我们的成功是大家共同努力得来的。</p>
-<p>这次经历让我明白，成功不一定是做那个最闪亮的人，而是在团队中做默默贡献的一份子。即便最终的荣誉不是个人的，但只要参与其中，贡献力量，就值得骄傲。</p>
-<p>在今后的学习和生活中，我也会继续努力，和大家一起合作，为班级、为学校做更多的贡献。我相信，每一个小小的努力，最终都会汇聚成胜利的一部分。</p>
-<p>我会把这种精神用在更多地方，不仅是为了自己的进步，更是为了我们集体的光荣。这样，功成的路上一定会有我的一份努力。</p>
-<p>功成不必在我，功成必定有我！</p>
-]]></content>
-      <categories>
-        <category>闲聊杂谈</category>
-      </categories>
-      <tags>
-        <tag>作文</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《独立博客自省问卷15题》答卷</title>
-    <url>/2024/10/31/%E3%80%8A%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2%E8%87%AA%E7%9C%81%E9%97%AE%E5%8D%B715%E9%A2%98%E3%80%8B%E7%AD%94%E5%8D%B7/</url>
-    <content><![CDATA[<h2 id="开头废话"><a href="#开头废话" class="headerlink" title="开头废话"></a>开头废话</h2><p>这两天通过<a href="https://xyzbz.cn/">网友小宋</a>分享的文章看到了雅余大佬的<a href="https://yayu.net/4626.html">独立博客自省问卷15题</a>，两周没更了，今天特意水一期文章</p>
-<hr>
-<h2 id="独立博客自省问卷15题"><a href="#独立博客自省问卷15题" class="headerlink" title="独立博客自省问卷15题"></a>独立博客自省问卷15题</h2><p><strong>1、你的博客更新频率是多少？</strong></p>
-<p>A.每周更新</p>
-<p>B.一周数篇</p>
-<p>C.一月1-2篇</p>
-<p>D.几个月一篇</p>
-<blockquote>
-<p>C 最近忙了，一个月最多三篇</p>
-</blockquote>
-<p><strong>2、你的博客上次更新是什么时候？</strong></p>
-<p>A.本周</p>
-<p>B.上周</p>
-<p>C.上个月</p>
-<p>D.上季度</p>
-<blockquote>
-<p>B 就是因为这样才水的这篇文章</p>
-</blockquote>
-<p><strong>3、你的博客文章是原创的吗？</strong></p>
-<p>A.坚持原创</p>
-<p>B.部分借鉴</p>
-<p>C.AI 帮我写的</p>
-<p>D.搬运别人的，而且不署名</p>
-<blockquote>
-<p>ABC 95％原创，3％借鉴，2％AI写的</p>
-</blockquote>
-<p><strong>4、你觉得自己的文章对他人有帮助吗？</strong></p>
-<p>A.旨在对他人有启示</p>
-<p>B.多少有点意义</p>
-<p>C.每日每周流水账</p>
-<p>D.自我陶醉就好，管他呢</p>
-<blockquote>
-<p>B 还是多少有点吧</p>
-</blockquote>
-<p><strong>5、你上次换博客主题&#x2F;程序是什么时候？</strong></p>
-<p>A.上周</p>
-<p>B.上个月</p>
-<p>C.去年</p>
-<p>D.凭良心说，我多年都是一个主题</p>
-<blockquote>
-<p>D 虽然想换但是懒，还没时间</p>
-</blockquote>
-<p><strong>6、你上一次捣腾博客主题代码是什么时候？</strong></p>
-<p>A.昨天，撸代码到凌晨</p>
-<p>B.每周必捣腾</p>
-<p>C.每月有那么一次</p>
-<p>D.一年有那么一次</p>
-<blockquote>
-<p>C 在对一些博客自带的描述不满意或者增加功能但作者并没有直接给入口时会自己倒腾</p>
-</blockquote>
-<p><strong>7、你会对博客主题进行二次开发？</strong></p>
-<p>A.直接配置使用，省心不折腾</p>
-<p>B.时不时自己改改，搞点新花样，换图片，换字体，爽</p>
-<p>C.删除主题作者版权信息，改改样式，然后自我感觉良好</p>
-<p>D.改得面目全非，但保留原作者版权信息或注明</p>
-<blockquote>
-<p>A 懒啊</p>
-</blockquote>
-<p><strong>8、你多久打开自己博客自我陶醉一次？</strong></p>
-<p>A.每天数次</p>
-<p>B.每周一次</p>
-<p>C.看心情</p>
-<p>D.一般都是照镜子，不看博客</p>
-<blockquote>
-<p>AC 无聊时会看看，看完更无聊</p>
-</blockquote>
-<p><strong>9、你近期对自己博客域名什么感受？</strong></p>
-<p>A.想搞到一个 .COM 的域名</p>
-<p>B.如果域名能再短几个字符就更好了</p>
-<p>C.今年才换双拼域名了，明年再看看</p>
-<p>D.目前挺好，没想法</p>
-<blockquote>
-<p>A 是真想啊，但是目前不允许我这样做</p>
-</blockquote>
-<p><strong>10、你每天都会看网站的流量统计吗？</strong></p>
-<p>A.每天看几次，今天又多了100PV</p>
-<p>B.每周回顾，看看流量趋势</p>
-<p>C.记得就看看</p>
-<p>D.没有搞流量统计，都是浮云</p>
-<blockquote>
-<p>C 偶尔吧，看看博客最近怎么样，感觉这还是很重要的</p>
-</blockquote>
-<p><strong>11、你通过博客的广告赚到钱了吗？</strong></p>
-<p>A.有，能覆盖建站费用</p>
-<p>B.有，但付出大于收入</p>
-<p>C.没考虑通过博客流量赚钱</p>
-<p>D.拒绝广告，保证阅读体验</p>
-<blockquote>
-<p>D 目前没有广告的方法，等以后有实力了可能会写付费文章赚钱</p>
-</blockquote>
-<p><strong>12、你去浏览别人的博客&#x2F;网站主要为什么？</strong></p>
-<p>A.学习别人分享的知识</p>
-<p>B.搬运别人的内容</p>
-<p>C.看看别人怎么装修博客，自己也抄一下，感觉都比自己的好</p>
-<p>D.不爱看别人博客，自己爱写啥写啥</p>
-<blockquote>
-<p>AC 主要还是看看写的什么吧</p>
-</blockquote>
-<p><strong>13、看到别人分享了一篇文章，你打开第一反应是什么？</strong></p>
-<p>A.哇，这域名真不错，怎么我没想到</p>
-<p>B.哇，这网站速度真快，图片延迟加载丝滑</p>
-<p>C.哇，这程序&#x2F;主题不错，我也要抄一抄&#x2F;留言问问哪里搞的</p>
-<p>D.看看文章内容</p>
-<blockquote>
-<p>D 同12问。同时也会注重速度和程序&#x2F;主题</p>
-</blockquote>
-<p><strong>14、你觉得博客哪方面更重要？</strong></p>
-<p>A.域名</p>
-<p>B.服务器</p>
-<p>C.主题</p>
-<p>D.内容</p>
-<blockquote>
-<p>D 内容才是博客的基石，其他都是次要的</p>
-</blockquote>
-<p><strong>15、近期通过写博客有哪些新收获？</strong></p>
-<p>A.知识面有拓展</p>
-<p>B.认识了新朋友</p>
-<p>C.写作水平提升</p>
-<p>D.通过知识变现</p>
-<blockquote>
-<p>ABC 都有吧，最主要的是知识面有拓展</p>
-</blockquote>
-<p>That’s all</p>
-]]></content>
-      <categories>
-        <category>闲聊杂谈</category>
-      </categories>
-      <tags>
-        <tag>水</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>勇气：雷军与小米的非凡旅程</title>
-    <url>/2024/07/20/%E5%8B%87%E6%B0%94%EF%BC%9A%E9%9B%B7%E5%86%9B%E4%B8%8E%E5%B0%8F%E7%B1%B3%E7%9A%84%E9%9D%9E%E5%87%A1%E6%97%85%E7%A8%8B/</url>
-    <content><![CDATA[<p><img src="https://github.com/user-attachments/assets/46e30fa9-b528-4db3-8fb1-b8a2b7aff261" alt="92f8fca6efd5c045852b447894905056eecf72f9 3"></p>
-<p>在科技行业，每一次跨越都是一次勇气的考验。2024年的盛夏，小米集团的创始人、董事长兼CEO雷军，站在一年一度的个人演讲舞台上，用“勇气”二字串联起了过去与未来，科技与梦想，以及个人与品牌的壮丽篇章。</p>
-<h2 id="小米汽车：从零到一的勇气"><a href="#小米汽车：从零到一的勇气" class="headerlink" title="小米汽车：从零到一的勇气"></a>小米汽车：从零到一的勇气</h2><p>雷军的演讲开篇，就带我们进入了小米汽车的奇妙世界。自2021年宣布进军汽车行业以来，小米汽车成为了业界关注的焦点。雷军坦诚分享了这一路上的艰难与坚持。面对外界的质疑，小米选择了不走寻常路——拒绝拆分独立融资，而是将汽车项目置于集团内部，以小米自身的资金与资源全力推进。这一决策背后，是对未来趋势的洞察，更是对自身能力的信任。</p>
-<p>雷军本人，作为一位企业家，更是一位勇敢的探索者。他不仅亲自试驾了170余款汽车，还考取了赛车驾照，以实际行动诠释了对汽车行业的热爱与尊重。这一系列举动，不仅加深了他对于汽车行业的理解，也向世人展示了小米汽车项目的决心与信心。</p>
-<h2 id="破局者：投资与自我超越"><a href="#破局者：投资与自我超越" class="headerlink" title="破局者：投资与自我超越"></a>破局者：投资与自我超越</h2><p>在市场波动的背景下，小米的股价也曾经历过起伏。面对挑战，雷军领导的小米采取了果断措施——回购股票，展现了管理层对于公司长期价值的坚定信念。这一策略不仅稳定了市场预期，也彰显了小米对于自我价值的清晰认知。</p>
-<p>更重要的是，小米始终将“最好的投资就是投资自己”作为行动指南。无论是产品创新，还是品牌建设，小米都在不断突破自我，用品质与服务赢得用户的信任。这一过程中，小米不仅破除了外界对于品牌形象的固有认知，更是在全球市场上树立起了一面旗帜，成为科技行业的破局者。</p>
-<h2 id="科技之光：新品发布与未来愿景"><a href="#科技之光：新品发布与未来愿景" class="headerlink" title="科技之光：新品发布与未来愿景"></a>科技之光：新品发布与未来愿景</h2><p>演讲的高潮，自然落在了小米的最新产品上。小米MIX Fold4与小米MIX Flip两款折叠屏手机的发布，标志着小米在移动通讯领域的又一次飞跃。小米MIX Fold4凭借其卓越的屏幕技术、极致的性能和优雅的设计，再次定义了折叠屏手机的新标准；而小米MIX Flip，则以小巧轻盈的形态，开辟了折叠屏手机的全新可能性，满足了用户对于时尚与实用性的双重需求。</p>
-<p>除此之外，雷军还揭秘了一款概念产品——小米SU7 Ultra Prototype，这款产品集成了小米最前沿的科技成果，预示着小米在高科技领域的持续探索与创新。每一款新品的背后，都是小米对未来的憧憬与追求，它们共同编织出一幅关于科技与生活的美好图景。</p>
-<h2 id="个人成长与勇气的赞歌"><a href="#个人成长与勇气的赞歌" class="headerlink" title="个人成长与勇气的赞歌"></a>个人成长与勇气的赞歌</h2><p>演讲尾声，雷军回归初心，分享了个人成长的故事。从金山软件的风雨岁月，到小米的辉煌征程，每一步都充满了挑战与机遇。雷军的赛车驾照与漂移视频，不仅仅是一次速度与激情的体验，更是勇气与梦想的见证。它们告诉我们，无论前方的路有多么崎岖，只要有勇气，就有无限可能。</p>
-<p>雷军的年度演讲，不仅是一场科技盛宴，更是一次心灵的触动。它让我们看到了一个企业从无到有、从弱到强的成长轨迹，也让我们感受到了一个领导者对于梦想的执着追求。在未来的日子里，小米将继续以勇气为帆，驶向更加广阔的科技蓝海，书写属于自己的传奇篇章！</p>
-]]></content>
-      <categories>
-        <category>闲聊杂谈</category>
-      </categories>
-      <tags>
-        <tag>发布会</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>博客图床新方案——自部署LightPicture</title>
     <url>/2024/09/22/%E5%8D%9A%E5%AE%A2%E5%9B%BE%E5%BA%8A%E6%96%B0%E6%96%B9%E6%A1%88%E2%80%94%E2%80%94%E8%87%AA%E9%83%A8%E7%BD%B2LightPicture/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>最近我苦于寻找一个可以永久使用的图床，看了看，好像只能是自己部署，那就来吧。本期博客教大家使用小皮面板本地部署图床。</p>
@@ -768,6 +729,36 @@
       </tags>
   </entry>
   <entry>
+    <title>如何查看答案圈隐藏的答案</title>
+    <url>/2024/11/24/%E5%A6%82%E4%BD%95%E6%9F%A5%E7%9C%8B%E7%AD%94%E6%A1%88%E5%9C%88%E9%9A%90%E8%97%8F%E7%9A%84%E7%AD%94%E6%A1%88/</url>
+    <content><![CDATA[<div class="note warning flat"><p>本教程不是让你抄答案用的！</p>
+</div>
+
+<h2 id="废话"><a href="#废话" class="headerlink" title="废话"></a>废话</h2><p>当我们需要对（抄）答案但找不到纸质答案时，很多人喜欢在网上搜答案，但一般搜到的是这样的</p>
+<p><img src="https://wmimg.com/i/1169/2024/11/6742fadca9d99.png" alt="需要登录/花钱才能看"></p>
+<p>找了很多平台，几乎没有免登录&#x2F;花钱的。但是，我看到了一个平台虽然让登录，但是能通过看看源码的方式看到答案。</p>
+<p>答案圈（不给链接）</p>
+<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><p>找到自己的练习册，点击鼠标右键&#x3D;&gt;查看页面源代码</p>
+<p><img src="https://wmimg.com/i/1169/2024/11/6742fc5e13c0a.png" alt="1732443227368.png"></p>
+<p>代码一般在53行，大部分浏览器在左侧会标行数。</p>
+<p><img src="https://wmimg.com/i/1169/2024/11/6743248211d47.png" alt="左侧有表明行数"></p>
+<p>滑动条往右划，找到自己要找的答案大概的位置，这一行会有这个格式的链接，点开就能看到答案</p>
+<p><img src="https://wmimg.com/i/1169/2024/11/674324f962909.png" alt="我标明的位置"></p>
+<p>举个例子，把这个链接打开</p>
+<p><a href="https://pic.mxqe.com/d/file/20241014/1728868633212663.jpg!500_800">https://pic.mxqe.com/d/file/20241014/1728868633212663.jpg!500_800</a></p>
+<p>通过图片确定答案位置后在网址栏将最后的<code>!500_800</code>删掉即可放大图片</p>
+<p><img src="https://wmimg.com/i/1169/2024/11/674327025f8fd.png" alt="演示"></p>
+<p>这样就可以对（抄）答案了</p>
+<div class="note warning flat"><p>本教程不是让你抄答案用的！</p>
+</div>]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>扒代码</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>如何流畅访问Github</title>
     <url>/2024/08/10/%E5%A6%82%E4%BD%95%E6%B5%81%E7%95%85%E8%AE%BF%E9%97%AEGithub/</url>
     <content><![CDATA[<blockquote>
@@ -867,27 +858,42 @@
       </tags>
   </entry>
   <entry>
-    <title>网站故障说明</title>
-    <url>/2024/08/22/%E7%BD%91%E7%AB%99%E6%95%85%E9%9A%9C%E8%AF%B4%E6%98%8E/</url>
-    <content><![CDATA[<h1 id="重要通知-网站图床服务崩塌及解决方案"><a href="#重要通知-网站图床服务崩塌及解决方案" class="headerlink" title="重要通知: 网站图床服务崩塌及解决方案"></a>重要通知: 网站图床服务崩塌及解决方案</h1><p>深深地向大家道歉。由于我个人的疏忽以及图床服务商服务中断的问题，这是一个P3级事故，导致我们的网站遇到了一些技术问题，这影响了您的体验。我在这里详细说明发生了什么，目前的状态，以及我们的临时解决方案。</p>
-<h2 id="问题说明"><a href="#问题说明" class="headerlink" title="问题说明"></a>问题说明</h2><p>本站的图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 因为各种原因在8月21日~8月22日期间所有上传的图片全部无法打开，这导致了本站所有使用此图床服务的图片全部无法打开。<br><img src="https://s21.ax1x.com/2024/08/22/pAi2tvd.png" alt="问题图片"></p>
-<h2 id="当前状态"><a href="#当前状态" class="headerlink" title="当前状态"></a>当前状态</h2><p>经过我的检查，此图床的主页可以打开，但图片无法打开，这需要一段时间才能解决或无法解决<br>由于这一问题，我们的网站目前处于不完整的状态，影响了用户的正常访问。</p>
-<h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>本站在前几天就表示要更换图床服务，目前已经全部更换所有文章的图床服务，所以，文章您可以正常访问。其他位置的图片正在加急处理。</p>
-<h2 id="后续措施"><a href="#后续措施" class="headerlink" title="后续措施"></a>后续措施</h2><p>我们深感抱歉因个人疏忽和图床服务商的服务中断给您带来的不便。请知悉，我们正在尽一切努力解决这一问题，并将从中吸取教训，未来将进一步加强网站的稳定性和制定更周全的应急预案，避免类似情况的再次发生。</p>
-<p>我们深知这次事件可能影响了您对我们网站的信任，但请您相信，我们全力以赴地解决问题，并始终致力于提供最佳的服务和体验。感谢您的理解与支持。</p>
-<p>如果您有任何问题或需要进一步的帮助，请随时与我们联系。</p>
-<p>祝好</p>
-<p>[Peter267]</p>
-<ul>
-<li>8月22日15:00<br>友人帐页面图片已经恢复访问</li>
-<li>8月22日晚上<br>原图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 已经恢复，本站已经恢复所有图片的访问（但加载缓慢）</li>
-</ul>
+    <title>功成不必在我，功成必定有我</title>
+    <url>/2024/10/20/%E5%8A%9F%E6%88%90%E4%B8%8D%E5%BF%85%E5%9C%A8%E6%88%91%EF%BC%8C%E5%8A%9F%E6%88%90%E5%BF%85%E5%AE%9A%E6%9C%89%E6%88%91/</url>
+    <content><![CDATA[<p>在校运会练习走方队的过程中，我理解了“功成不必在我，功成必定有我”的真正含义。这让我懂得，一个集体的成功，靠的是每个人的小小的努力。</p>
+<p>初次练习时，我只想着自己能走得最好。但很快发现，方队的整齐划一取决于所有人的步调一致。即使某个人做得再好，如果不能与大家协调，整个方队的队形也会受到影响。我们需要关注身边的同学，互相配合，才能让方队在运动会开幕时展现出最佳效果。</p>
+<p>训练中，我学会了关注身边的同学，和大家保持步调一致。少了谁都不行，而我们的成功是大家共同努力得来的。</p>
+<p>这次经历让我明白，成功不一定是做那个最闪亮的人，而是在团队中做默默贡献的一份子。即便最终的荣誉不是个人的，但只要参与其中，贡献力量，就值得骄傲。</p>
+<p>在今后的学习和生活中，我也会继续努力，和大家一起合作，为班级、为学校做更多的贡献。我相信，每一个小小的努力，最终都会汇聚成胜利的一部分。</p>
+<p>我会把这种精神用在更多地方，不仅是为了自己的进步，更是为了我们集体的光荣。这样，功成的路上一定会有我的一份努力。</p>
+<p>功成不必在我，功成必定有我！</p>
 ]]></content>
       <categories>
-        <category>网站公告</category>
+        <category>闲聊杂谈</category>
       </categories>
       <tags>
-        <tag>其他</tag>
+        <tag>作文</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>勇气：雷军与小米的非凡旅程</title>
+    <url>/2024/07/20/%E5%8B%87%E6%B0%94%EF%BC%9A%E9%9B%B7%E5%86%9B%E4%B8%8E%E5%B0%8F%E7%B1%B3%E7%9A%84%E9%9D%9E%E5%87%A1%E6%97%85%E7%A8%8B/</url>
+    <content><![CDATA[<p><img src="https://github.com/user-attachments/assets/46e30fa9-b528-4db3-8fb1-b8a2b7aff261" alt="92f8fca6efd5c045852b447894905056eecf72f9 3"></p>
+<p>在科技行业，每一次跨越都是一次勇气的考验。2024年的盛夏，小米集团的创始人、董事长兼CEO雷军，站在一年一度的个人演讲舞台上，用“勇气”二字串联起了过去与未来，科技与梦想，以及个人与品牌的壮丽篇章。</p>
+<h2 id="小米汽车：从零到一的勇气"><a href="#小米汽车：从零到一的勇气" class="headerlink" title="小米汽车：从零到一的勇气"></a>小米汽车：从零到一的勇气</h2><p>雷军的演讲开篇，就带我们进入了小米汽车的奇妙世界。自2021年宣布进军汽车行业以来，小米汽车成为了业界关注的焦点。雷军坦诚分享了这一路上的艰难与坚持。面对外界的质疑，小米选择了不走寻常路——拒绝拆分独立融资，而是将汽车项目置于集团内部，以小米自身的资金与资源全力推进。这一决策背后，是对未来趋势的洞察，更是对自身能力的信任。</p>
+<p>雷军本人，作为一位企业家，更是一位勇敢的探索者。他不仅亲自试驾了170余款汽车，还考取了赛车驾照，以实际行动诠释了对汽车行业的热爱与尊重。这一系列举动，不仅加深了他对于汽车行业的理解，也向世人展示了小米汽车项目的决心与信心。</p>
+<h2 id="破局者：投资与自我超越"><a href="#破局者：投资与自我超越" class="headerlink" title="破局者：投资与自我超越"></a>破局者：投资与自我超越</h2><p>在市场波动的背景下，小米的股价也曾经历过起伏。面对挑战，雷军领导的小米采取了果断措施——回购股票，展现了管理层对于公司长期价值的坚定信念。这一策略不仅稳定了市场预期，也彰显了小米对于自我价值的清晰认知。</p>
+<p>更重要的是，小米始终将“最好的投资就是投资自己”作为行动指南。无论是产品创新，还是品牌建设，小米都在不断突破自我，用品质与服务赢得用户的信任。这一过程中，小米不仅破除了外界对于品牌形象的固有认知，更是在全球市场上树立起了一面旗帜，成为科技行业的破局者。</p>
+<h2 id="科技之光：新品发布与未来愿景"><a href="#科技之光：新品发布与未来愿景" class="headerlink" title="科技之光：新品发布与未来愿景"></a>科技之光：新品发布与未来愿景</h2><p>演讲的高潮，自然落在了小米的最新产品上。小米MIX Fold4与小米MIX Flip两款折叠屏手机的发布，标志着小米在移动通讯领域的又一次飞跃。小米MIX Fold4凭借其卓越的屏幕技术、极致的性能和优雅的设计，再次定义了折叠屏手机的新标准；而小米MIX Flip，则以小巧轻盈的形态，开辟了折叠屏手机的全新可能性，满足了用户对于时尚与实用性的双重需求。</p>
+<p>除此之外，雷军还揭秘了一款概念产品——小米SU7 Ultra Prototype，这款产品集成了小米最前沿的科技成果，预示着小米在高科技领域的持续探索与创新。每一款新品的背后，都是小米对未来的憧憬与追求，它们共同编织出一幅关于科技与生活的美好图景。</p>
+<h2 id="个人成长与勇气的赞歌"><a href="#个人成长与勇气的赞歌" class="headerlink" title="个人成长与勇气的赞歌"></a>个人成长与勇气的赞歌</h2><p>演讲尾声，雷军回归初心，分享了个人成长的故事。从金山软件的风雨岁月，到小米的辉煌征程，每一步都充满了挑战与机遇。雷军的赛车驾照与漂移视频，不仅仅是一次速度与激情的体验，更是勇气与梦想的见证。它们告诉我们，无论前方的路有多么崎岖，只要有勇气，就有无限可能。</p>
+<p>雷军的年度演讲，不仅是一场科技盛宴，更是一次心灵的触动。它让我们看到了一个企业从无到有、从弱到强的成长轨迹，也让我们感受到了一个领导者对于梦想的执着追求。在未来的日子里，小米将继续以勇气为帆，驶向更加广阔的科技蓝海，书写属于自己的传奇篇章！</p>
+]]></content>
+      <categories>
+        <category>闲聊杂谈</category>
+      </categories>
+      <tags>
+        <tag>发布会</tag>
       </tags>
   </entry>
   <entry>
@@ -931,33 +937,27 @@
       </tags>
   </entry>
   <entry>
-    <title>如何查看答案圈隐藏的答案</title>
-    <url>/2024/11/24/%E5%A6%82%E4%BD%95%E6%9F%A5%E7%9C%8B%E7%AD%94%E6%A1%88%E5%9C%88%E9%9A%90%E8%97%8F%E7%9A%84%E7%AD%94%E6%A1%88/</url>
-    <content><![CDATA[<div class="note warning flat"><p>本教程不是让你抄答案用的！</p>
-</div>
-
-<h2 id="废话"><a href="#废话" class="headerlink" title="废话"></a>废话</h2><p>当我们需要对（抄）答案但找不到纸质答案时，很多人喜欢在网上搜答案，但一般搜到的是这样的</p>
-<p><img src="https://wmimg.com/i/1169/2024/11/6742fadca9d99.png" alt="需要登录/花钱才能看"></p>
-<p>找了很多平台，几乎没有免登录&#x2F;花钱的。但是，我看到了一个平台虽然让登录，但是能通过看看源码的方式看到答案。</p>
-<p>答案圈（不给链接）</p>
-<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><p>找到自己的练习册，点击鼠标右键&#x3D;&gt;查看页面源代码</p>
-<p><img src="https://wmimg.com/i/1169/2024/11/6742fc5e13c0a.png" alt="1732443227368.png"></p>
-<p>代码一般在53行，大部分浏览器在左侧会标行数。</p>
-<p><img src="https://wmimg.com/i/1169/2024/11/6743248211d47.png" alt="左侧有表明行数"></p>
-<p>滑动条往右划，找到自己要找的答案大概的位置，这一行会有这个格式的链接，点开就能看到答案</p>
-<p><img src="https://wmimg.com/i/1169/2024/11/674324f962909.png" alt="我标明的位置"></p>
-<p>举个例子，把这个链接打开</p>
-<p><a href="https://pic.mxqe.com/d/file/20241014/1728868633212663.jpg!500_800">https://pic.mxqe.com/d/file/20241014/1728868633212663.jpg!500_800</a></p>
-<p>通过图片确定答案位置后在网址栏将最后的<code>!500_800</code>删掉即可放大图片</p>
-<p><img src="https://wmimg.com/i/1169/2024/11/674327025f8fd.png" alt="演示"></p>
-<p>这样就可以对（抄）答案了</p>
-<div class="note warning flat"><p>本教程不是让你抄答案用的！</p>
-</div>]]></content>
+    <title>网站故障说明</title>
+    <url>/2024/08/22/%E7%BD%91%E7%AB%99%E6%95%85%E9%9A%9C%E8%AF%B4%E6%98%8E/</url>
+    <content><![CDATA[<h1 id="重要通知-网站图床服务崩塌及解决方案"><a href="#重要通知-网站图床服务崩塌及解决方案" class="headerlink" title="重要通知: 网站图床服务崩塌及解决方案"></a>重要通知: 网站图床服务崩塌及解决方案</h1><p>深深地向大家道歉。由于我个人的疏忽以及图床服务商服务中断的问题，这是一个P3级事故，导致我们的网站遇到了一些技术问题，这影响了您的体验。我在这里详细说明发生了什么，目前的状态，以及我们的临时解决方案。</p>
+<h2 id="问题说明"><a href="#问题说明" class="headerlink" title="问题说明"></a>问题说明</h2><p>本站的图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 因为各种原因在8月21日~8月22日期间所有上传的图片全部无法打开，这导致了本站所有使用此图床服务的图片全部无法打开。<br><img src="https://s21.ax1x.com/2024/08/22/pAi2tvd.png" alt="问题图片"></p>
+<h2 id="当前状态"><a href="#当前状态" class="headerlink" title="当前状态"></a>当前状态</h2><p>经过我的检查，此图床的主页可以打开，但图片无法打开，这需要一段时间才能解决或无法解决<br>由于这一问题，我们的网站目前处于不完整的状态，影响了用户的正常访问。</p>
+<h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>本站在前几天就表示要更换图床服务，目前已经全部更换所有文章的图床服务，所以，文章您可以正常访问。其他位置的图片正在加急处理。</p>
+<h2 id="后续措施"><a href="#后续措施" class="headerlink" title="后续措施"></a>后续措施</h2><p>我们深感抱歉因个人疏忽和图床服务商的服务中断给您带来的不便。请知悉，我们正在尽一切努力解决这一问题，并将从中吸取教训，未来将进一步加强网站的稳定性和制定更周全的应急预案，避免类似情况的再次发生。</p>
+<p>我们深知这次事件可能影响了您对我们网站的信任，但请您相信，我们全力以赴地解决问题，并始终致力于提供最佳的服务和体验。感谢您的理解与支持。</p>
+<p>如果您有任何问题或需要进一步的帮助，请随时与我们联系。</p>
+<p>祝好</p>
+<p>[Peter267]</p>
+<ul>
+<li>8月22日15:00<br>友人帐页面图片已经恢复访问</li>
+<li>8月22日晚上<br>原图床服务 <a href="https://tutu.to/">https://tutu.to/</a> 已经恢复，本站已经恢复所有图片的访问（但加载缓慢）</li>
+</ul>
+]]></content>
       <categories>
-        <category>经验分享</category>
+        <category>网站公告</category>
       </categories>
       <tags>
-        <tag>扒代码</tag>
+        <tag>其他</tag>
       </tags>
   </entry>
 </search>
