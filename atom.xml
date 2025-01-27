@@ -6,7 +6,7 @@
   <link href="https://peter267.zeabur.app/atom.xml" rel="self"/>
   
   <link href="https://peter267.zeabur.app/"/>
-  <updated>2025-01-14T05:44:02.684Z</updated>
+  <updated>2025-01-27T14:26:57.203Z</updated>
   <id>https://peter267.zeabur.app/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2024年总结</title>
+    <link href="https://peter267.zeabur.app/2025/01/27/2024%E5%B9%B4%E6%80%BB%E7%BB%93/"/>
+    <id>https://peter267.zeabur.app/2025/01/27/2024%E5%B9%B4%E6%80%BB%E7%BB%93/</id>
+    <published>2025-01-27T14:30:00.000Z</published>
+    <updated>2025-01-27T14:26:57.203Z</updated>
+    
+    <content type="html"><![CDATA[<p>首先祝大家新年快乐！</p><p>最近更新较少，主要原因有三：</p><ol><li><p>学业任务繁重</p></li><li><p>身体抱恙</p></li><li><p>个人状态调整</p></li></ol><p>虽然文章更新频率有所下降，但我们一直在默默优化用户体验：<br>• 新增友链朋友圈功能<br>• 完善安全跳转机制<br>• 持续优化系统性能</p><p>这篇文章还没写完</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="闲聊杂谈" scheme="https://peter267.zeabur.app/categories/%E9%97%B2%E8%81%8A%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="水" scheme="https://peter267.zeabur.app/tags/%E6%B0%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>2024年度浏览器扩展推荐</title>
@@ -261,9 +288,9 @@
     
     <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
     
-    <category term="PHP" scheme="https://peter267.zeabur.app/tags/PHP/"/>
-    
     <category term="折腾" scheme="https://peter267.zeabur.app/tags/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="PHP" scheme="https://peter267.zeabur.app/tags/PHP/"/>
     
   </entry>
   
@@ -377,9 +404,9 @@
     
     <category term="Github" scheme="https://peter267.zeabur.app/tags/Github/"/>
     
-    <category term="博客" scheme="https://peter267.zeabur.app/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
     <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
+    
+    <category term="博客" scheme="https://peter267.zeabur.app/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
@@ -408,9 +435,9 @@
     
     <category term="Github" scheme="https://peter267.zeabur.app/tags/Github/"/>
     
-    <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
-    
     <category term="科普" scheme="https://peter267.zeabur.app/tags/%E7%A7%91%E6%99%AE/"/>
+    
+    <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
     
   </entry>
   
@@ -524,9 +551,9 @@
     <category term="科普" scheme="https://peter267.zeabur.app/categories/%E7%A7%91%E6%99%AE/"/>
     
     
-    <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
-    
     <category term="科普" scheme="https://peter267.zeabur.app/tags/%E7%A7%91%E6%99%AE/"/>
+    
+    <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
     
   </entry>
   
