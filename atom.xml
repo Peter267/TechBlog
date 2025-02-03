@@ -288,9 +288,9 @@
     
     <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
     
-    <category term="折腾" scheme="https://peter267.zeabur.app/tags/%E6%8A%98%E8%85%BE/"/>
-    
     <category term="PHP" scheme="https://peter267.zeabur.app/tags/PHP/"/>
+    
+    <category term="折腾" scheme="https://peter267.zeabur.app/tags/%E6%8A%98%E8%85%BE/"/>
     
   </entry>
   
@@ -404,9 +404,9 @@
     
     <category term="Github" scheme="https://peter267.zeabur.app/tags/Github/"/>
     
-    <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
-    
     <category term="博客" scheme="https://peter267.zeabur.app/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
     
   </entry>
   
@@ -435,9 +435,9 @@
     
     <category term="Github" scheme="https://peter267.zeabur.app/tags/Github/"/>
     
-    <category term="科普" scheme="https://peter267.zeabur.app/tags/%E7%A7%91%E6%99%AE/"/>
-    
     <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
+    
+    <category term="科普" scheme="https://peter267.zeabur.app/tags/%E7%A7%91%E6%99%AE/"/>
     
   </entry>
   
@@ -551,9 +551,9 @@
     <category term="科普" scheme="https://peter267.zeabur.app/categories/%E7%A7%91%E6%99%AE/"/>
     
     
-    <category term="科普" scheme="https://peter267.zeabur.app/tags/%E7%A7%91%E6%99%AE/"/>
-    
     <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
+    
+    <category term="科普" scheme="https://peter267.zeabur.app/tags/%E7%A7%91%E6%99%AE/"/>
     
   </entry>
   
@@ -612,33 +612,6 @@
     
     
     <category term="发布会" scheme="https://peter267.zeabur.app/tags/%E5%8F%91%E5%B8%83%E4%BC%9A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>BlogsClub - 博客所有权认证</title>
-    <link href="https://peter267.zeabur.app/2020/11/30/BlogsClub%20-%20%E5%8D%9A%E5%AE%A2%E6%89%80%E6%9C%89%E6%9D%83%E8%AE%A4%E8%AF%81/"/>
-    <id>https://peter267.zeabur.app/2020/11/30/BlogsClub%20-%20%E5%8D%9A%E5%AE%A2%E6%89%80%E6%9C%89%E6%9D%83%E8%AE%A4%E8%AF%81/</id>
-    <published>2020-11-30T04:03:00.000Z</published>
-    <updated>2025-02-03T07:02:12.041Z</updated>
-    
-    <content type="html"><![CDATA[<p>PeterTech - <a href="https://peter267.zeabur.app/">https://peter267.zeabur.app</a></p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
-    
-    
-    
-    <category term="网站公告" scheme="https://peter267.zeabur.app/categories/%E7%BD%91%E7%AB%99%E5%85%AC%E5%91%8A/"/>
-    
-    
-    <category term="其他" scheme="https://peter267.zeabur.app/tags/%E5%85%B6%E4%BB%96/"/>
     
   </entry>
   
