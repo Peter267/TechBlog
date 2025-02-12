@@ -6,7 +6,7 @@
   <link href="https://peter267.zeabur.app/atom.xml" rel="self"/>
   
   <link href="https://peter267.zeabur.app/"/>
-  <updated>2025-02-08T14:41:18.588Z</updated>
+  <updated>2025-02-12T09:24:11.270Z</updated>
   <id>https://peter267.zeabur.app/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>国内大模型列表及入口</title>
+    <link href="https://peter267.zeabur.app/2025/02/12/%E5%9B%BD%E5%86%85AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%88%97%E8%A1%A8%E5%8F%8A%E5%85%A5%E5%8F%A3/"/>
+    <id>https://peter267.zeabur.app/2025/02/12/%E5%9B%BD%E5%86%85AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%88%97%E8%A1%A8%E5%8F%8A%E5%85%A5%E5%8F%A3/</id>
+    <published>2025-02-12T09:25:00.000Z</published>
+    <updated>2025-02-12T09:24:11.270Z</updated>
+    
+    <content type="html"><![CDATA[<table><thead><tr><th>模型名称</th><th>开发商</th><th>官网</th><th>类型</th></tr></thead><tbody><tr><td>文心一言</td><td>百度</td><td><a href="https://yiyan.baidu.com/">https://yiyan.baidu.com/</a></td><td>大语言模型</td></tr><tr><td>通义</td><td>阿里巴巴</td><td><a href="https://tongyi.aliyun.com/">https://tongyi.aliyun.com/</a></td><td>多模态大模型</td></tr><tr><td>智谱清言</td><td>智谱AI</td><td><a href="https://chatglm.cn/">https://chatglm.cn/</a></td><td>大语言模型</td></tr><tr><td>DeepSeek</td><td>深度求索</td><td><a href="https://chat.deepseek.com/">https://chat.deepseek.com/</a></td><td>大语言模型</td></tr><tr><td>腾讯元宝</td><td>腾讯</td><td><a href="https://yuanbao.tencent.com/">https://yuanbao.tencent.com/</a></td><td>大语言模型</td></tr><tr><td>豆包</td><td>字节跳动</td><td><a href="https://www.doubao.com/">https://www.doubao.com/</a></td><td>大语言模型</td></tr><tr><td>天工AI</td><td>昆仑万维</td><td><a href="https://www.tiangong.cn/">https://www.tiangong.cn/</a></td><td>大语言模型</td></tr><tr><td>跃问</td><td>阶跃星辰</td><td><a href="https://www.yuewen.cn/">https://www.yuewen.cn/</a></td><td>大语言模型</td></tr><tr><td>讯飞星火</td><td>科大讯飞</td><td><a href="https://xinghuo.xfyun.cn/">https://xinghuo.xfyun.cn/</a></td><td>大语言模型</td></tr><tr><td>知乎直答</td><td>知乎</td><td><a href="https://zhida.zhihu.com/">https://zhida.zhihu.com/</a></td><td>问答系统</td></tr><tr><td>Kimi</td><td>月之暗面</td><td><a href="https://kimi.moonshot.cn/">https://kimi.moonshot.cn/</a></td><td>大语言模型</td></tr><tr><td>商量</td><td>商汤科技</td><td><a href="https://chat.sensetime.com/">https://chat.sensetime.com/</a></td><td>大语言模型</td></tr><tr><td>百小应</td><td>百川智能</td><td><a href="https://ying.baichuan-ai.com/">https://ying.baichuan-ai.com/</a></td><td>智能助手</td></tr><tr><td>万知</td><td>万知科技</td><td><a href="https://www.wanzhi.com/">https://www.wanzhi.com/</a></td><td>大语言模型</td></tr><tr><td>海螺</td><td>MiniMax</td><td><a href="https://hailuoai.com/">https://hailuoai.com/</a></td><td>大语言模型</td></tr><tr><td>秘塔AI搜索</td><td>秘塔科技</td><td><a href="https://metaso.cn/">https://metaso.cn/</a></td><td>智能搜索</td></tr><tr><td>360智脑</td><td>360</td><td><a href="https://chat.360.com/">https://chat.360.com/</a></td><td>大语言模型</td></tr><tr><td>纳米 AI</td><td>360</td><td><a href="https://www.n.cn/">https://www.n.cn/</a></td><td>大语言模型</td></tr><tr><td>魔笔马良</td><td>魔尔线程</td><td><a href="https://maliang.mthreads.com/">https://maliang.mthreads.com/</a></td><td>多模态生成模型</td></tr><tr><td>紫东太初</td><td>中科院</td><td><a href="https://taichu-web.ia.ac.cn/#/chat">https://taichu-web.ia.ac.cn/#/chat</a></td><td>多模态大模型</td></tr><tr><td>DreaminaAI</td><td>Dreamina</td><td><a href="https://dreamina.capcut.com/">https://dreamina.capcut.com/</a></td><td>多模态生成模型</td></tr><tr><td>元象大模型</td><td>元象 XVERSE</td><td><a href="https://chat.xverse.cn/xchat">https://chat.xverse.cn/xchat</a></td><td>大语言模型</td></tr><tr><td>拓世大模型</td><td>拓世科技</td><td></td><td>大语言模型</td></tr><tr><td>MOSS</td><td>复旦大学</td><td></td><td>大语言模型</td></tr><tr><td>西湖大模型</td><td>西湖星辰</td><td><a href="https://www.xinchenai.com/chat">https://www.xinchenai.com/chat</a></td><td>大语言模型</td></tr><tr><td>天河天元</td><td>国家超级计算天津中心</td><td></td><td>大语言模型</td></tr><tr><td>Chatlaw</td><td>北京大学</td><td><a href="http://chatlaw.cloud/">http://chatlaw.cloud/</a></td><td>大语言模型</td></tr><tr><td>LightGPT</td><td>恒生</td><td><a href="https://www.hs.net/lightgpt/">https://www.hs.net/lightgpt/</a></td><td>大语言模型</td></tr><tr><td>TechGPT</td><td>东北大学</td><td><a href="http://techgpt.neukg.com/">http://techgpt.neukg.com/</a></td><td>大语言模型</td></tr><tr><td>鸿湖</td><td>中国联通</td><td></td><td>多模态生成模型</td></tr><tr><td>悟道·天鹰</td><td>北京智源人工智能研究院</td><td></td><td>大语言模型</td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="服务推荐" scheme="https://peter267.zeabur.app/categories/%E6%9C%8D%E5%8A%A1%E6%8E%A8%E8%8D%90/"/>
+    
+    
+    <category term="AI纪元" scheme="https://peter267.zeabur.app/tags/AI%E7%BA%AA%E5%85%83/"/>
+    
+  </entry>
   
   <entry>
     <title>电脑操作从入门到精通 1 ：认识你面前的电脑</title>
@@ -48,7 +75,7 @@
     <link href="https://peter267.zeabur.app/2025/01/27/2024%E5%B9%B4%E6%80%BB%E7%BB%93/"/>
     <id>https://peter267.zeabur.app/2025/01/27/2024%E5%B9%B4%E6%80%BB%E7%BB%93/</id>
     <published>2025-01-27T14:30:00.000Z</published>
-    <updated>2025-01-27T14:26:57.203Z</updated>
+    <updated>2025-02-12T09:22:50.589Z</updated>
     
     <content type="html"><![CDATA[<p>首先祝大家新年快乐！</p><p>最近更新较少，主要原因有三：</p><ol><li><p>学业任务繁重</p></li><li><p>身体抱恙</p></li><li><p>个人状态调整</p></li></ol><p>虽然文章更新频率有所下降，但我们一直在默默优化用户体验：<br>• 新增友链朋友圈功能<br>• 完善安全跳转机制<br>• 持续优化系统性能</p><p>这篇文章还没写完</p>]]></content>
     
@@ -431,9 +458,9 @@
     
     <category term="Github" scheme="https://peter267.zeabur.app/tags/Github/"/>
     
-    <category term="博客" scheme="https://peter267.zeabur.app/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
     <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
+    
+    <category term="博客" scheme="https://peter267.zeabur.app/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
@@ -462,9 +489,9 @@
     
     <category term="Github" scheme="https://peter267.zeabur.app/tags/Github/"/>
     
-    <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
-    
     <category term="科普" scheme="https://peter267.zeabur.app/tags/%E7%A7%91%E6%99%AE/"/>
+    
+    <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
     
   </entry>
   
@@ -578,9 +605,9 @@
     <category term="科普" scheme="https://peter267.zeabur.app/categories/%E7%A7%91%E6%99%AE/"/>
     
     
-    <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
-    
     <category term="科普" scheme="https://peter267.zeabur.app/tags/%E7%A7%91%E6%99%AE/"/>
+    
+    <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
     
   </entry>
   
