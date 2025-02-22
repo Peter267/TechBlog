@@ -6,7 +6,7 @@
   <link href="https://peter267.zeabur.app/atom.xml" rel="self"/>
   
   <link href="https://peter267.zeabur.app/"/>
-  <updated>2025-02-20T16:00:00.000Z</updated>
+  <updated>2025-02-22T18:59:16.405Z</updated>
   <id>https://peter267.zeabur.app/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用MiniCover迅速制作文章封面</title>
+    <link href="https://peter267.zeabur.app/2025/02/23/%E4%BD%BF%E7%94%A8Mini-Cover%E8%BF%85%E9%80%9F%E5%88%B6%E4%BD%9C%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2/"/>
+    <id>https://peter267.zeabur.app/2025/02/23/%E4%BD%BF%E7%94%A8Mini-Cover%E8%BF%85%E9%80%9F%E5%88%B6%E4%BD%9C%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2/</id>
+    <published>2025-02-22T19:00:00.000Z</published>
+    <updated>2025-02-22T18:59:16.405Z</updated>
+    
+    <content type="html"><![CDATA[<p>相信很多博主都喜欢洪佬的博客封面，既简洁美观又富有个性。但是很多人不知道这样的封面如何制作，以下将使用Mini-Cover制作Heo风格的文章封面。</p><p><img src="https://wmimg.com/i/1169/2025/02/67b6f3a94cbf9.png" alt="Heo风格封面"></p><p><strong>Mini-Cover</strong>是<strong>山楂酥梨粥</strong>开发的一款封面制作工具，自定义程度很高，部署简单。除了自定义标题和图标外，还支持设置颜色、水印、字体等。这个项目非常适合喜欢Heo风格的扁平化封面设计封面的朋友。以下是它的功能</p><p>以下是</p><ul><li>字体自定义： 选择多种字体，适应不同风格的内容展示；</li><li>颜色调整： 轻松改变背景颜色和文字颜色，打造主题一致的封面；</li><li>水印支持： 增加标识性内容，保护原创设计；</li><li>图标插入： 支持上传和在线选择图标图片，进一步提升视觉表现。</li></ul><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://github.com/JLinMr/Mini-Cover">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="">          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">Mini-Cover</div>            <div class="tag-link-sitename"> GitHub项目</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><h2 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h2><p>由于本期博客主要讲的是Mini-Cover的使用，所以部署部分将一笔带过。</p><p>部署平台：Vercel，Zeabur，Netlify，CloudFlare等Serverless平台。</p><p align="center">  <a href="https://vercel.com/new/clone?repository-url=https://github.com/JLinMr/Mini-Cover">    <img src="https://vercel.com/button" alt="Deploy with Vercel" />  </a><p>点击上方按钮部署到Vercel，简单直接。</p><p>如果想部署到其他平台，请Fork本仓库，然后再平台上选择即可。</p><p>或者你可以直接使用官方的演示网站</p><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://cover.ruom.top/">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="">          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">Mini-Cover</div>            <div class="tag-link-sitename"> 官方演示</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><p>以下是项目的实际预览效果，还是很简洁的。</p><p><img src="https://i.p-i.vip/88/20250223-67ba143aabec1.png" alt="预览效果"></p><h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><h3 id="基础操作"><a href="#基础操作" class="headerlink" title="基础操作"></a>基础操作</h3><p>太基础的就不说了，来讲讲如何删除水印。</p><p>先编辑一下水印，再删除即可。</p><h3 id="拖动上传"><a href="#拖动上传" class="headerlink" title="拖动上传"></a>拖动上传</h3><p><img src="https://i.p-i.vip/88/20250223-67ba15783a803.png" alt="演示"></p><p>根据我的测试，将图片拖动到蓝色方框内是上传图标，拖动至红色方框内是上传背景。</p><h2 id="小建议"><a href="#小建议" class="headerlink" title="小建议"></a>小建议</h2><p>为了每次封面出品一致，建议以数字+拖动条的形式来编辑，这样方便每次设置一样的大小。</p><p>获取外链方面，可以在保证安全的情况下设置自己图床的Key，原装的有点慢…</p><p>字体使用“默认全局”和“微软雅黑”时标题会略微靠上，望修复。</p><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://blog.liushen.fun/posts/cb179d4/">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="">          <i class="anzhiyufont anzhiyu-icon-link" style=""></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">Cloudflare/Vercel项目推荐(3)</div>            <div class="tag-link-sitename"> LiuShen</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="服务推荐" scheme="https://peter267.zeabur.app/categories/%E6%9C%8D%E5%8A%A1%E6%8E%A8%E8%8D%90/"/>
+    
+    
+    <category term="Github" scheme="https://peter267.zeabur.app/tags/Github/"/>
+    
+    <category term="Serverless" scheme="https://peter267.zeabur.app/tags/Serverless/"/>
+    
+    <category term="Vercel" scheme="https://peter267.zeabur.app/tags/Vercel/"/>
+    
+  </entry>
   
   <entry>
     <title>国内大模型列表及入口</title>
@@ -120,9 +151,9 @@
     <category term="软件推荐" scheme="https://peter267.zeabur.app/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
     
     
-    <category term="浏览器" scheme="https://peter267.zeabur.app/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
-    
     <category term="软件" scheme="https://peter267.zeabur.app/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="浏览器" scheme="https://peter267.zeabur.app/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
     
   </entry>
   
@@ -284,9 +315,9 @@
     <category term="软件推荐" scheme="https://peter267.zeabur.app/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
     
     
-    <category term="软件" scheme="https://peter267.zeabur.app/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="Windows系统" scheme="https://peter267.zeabur.app/tags/Windows%E7%B3%BB%E7%BB%9F/"/>
+    
+    <category term="软件" scheme="https://peter267.zeabur.app/tags/%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -458,9 +489,9 @@
     
     <category term="Github" scheme="https://peter267.zeabur.app/tags/Github/"/>
     
-    <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
-    
     <category term="博客" scheme="https://peter267.zeabur.app/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
     
   </entry>
   
@@ -489,9 +520,9 @@
     
     <category term="Github" scheme="https://peter267.zeabur.app/tags/Github/"/>
     
-    <category term="科普" scheme="https://peter267.zeabur.app/tags/%E7%A7%91%E6%99%AE/"/>
-    
     <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
+    
+    <category term="科普" scheme="https://peter267.zeabur.app/tags/%E7%A7%91%E6%99%AE/"/>
     
   </entry>
   
@@ -605,9 +636,9 @@
     <category term="科普" scheme="https://peter267.zeabur.app/categories/%E7%A7%91%E6%99%AE/"/>
     
     
-    <category term="科普" scheme="https://peter267.zeabur.app/tags/%E7%A7%91%E6%99%AE/"/>
-    
     <category term="如何____" scheme="https://peter267.zeabur.app/tags/%E5%A6%82%E4%BD%95/"/>
+    
+    <category term="科普" scheme="https://peter267.zeabur.app/tags/%E7%A7%91%E6%99%AE/"/>
     
   </entry>
   
